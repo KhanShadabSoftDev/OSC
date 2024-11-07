@@ -1,0 +1,561 @@
+2024-09-13 12:41:58 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-13 12:41:58 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-13 14:25:42 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-13 14:25:42 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-13 14:30:20 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-13 14:30:20 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-13 14:33:09 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-13 14:33:09 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-13 14:33:47 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-13 14:33:47 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-13 14:36:24 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-13 14:36:24 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-13 14:40:17 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-13 14:40:17 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-13 14:40:53 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-13 14:40:53 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-13 14:41:14 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-13 14:41:14 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-13 14:41:56 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-13 14:41:56 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-13 14:42:47 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-13 14:42:47 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-19 15:15:44 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-19 15:15:44 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-19 15:18:18 [http-nio-8080-exec-3] ERROR com.osc.userservice.service.login.LoginServiceImpl - Error occurred during session creation: NOT_FOUND: User not found
+2024-09-19 15:38:57 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-19 15:38:57 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-19 15:39:16 [http-nio-8080-exec-2] ERROR com.osc.userservice.service.login.SessionStatusService - Active Session for UserId: user0001
+2024-09-19 15:45:56 [http-nio-8080-exec-6] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0001 - UNKNOWN
+2024-09-19 15:45:56 [http-nio-8080-exec-6] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0001
+2024-09-19 15:47:14 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-19 15:47:14 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-19 15:48:23 [http-nio-8080-exec-4] ERROR com.osc.userservice.service.login.SessionStatusService - Active Session for UserId: user0001
+2024-09-19 15:53:47 [http-nio-8080-exec-9] ERROR com.osc.userservice.service.login.SessionStatusService - Active Session for UserId: user0001
+2024-09-19 16:47:23 [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1] ERROR org.apache.kafka.clients.Metadata - [Consumer clientId=OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1-consumer, groupId=OSC_01] Topic authorization failed for topics [KHAN-OTP-TOPIC, KHAN-USER-TOPIC]
+2024-09-19 16:47:23 [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1] ERROR org.apache.kafka.streams.KafkaStreams - stream-client [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd] Encountered the following exception during processing and the registered exception handler opted to SHUTDOWN_CLIENT. The streams client is going to shut down now. 
+org.apache.kafka.streams.errors.StreamsException: org.apache.kafka.common.errors.TopicAuthorizationException: Not authorized to access topics: [KHAN-OTP-TOPIC, KHAN-USER-TOPIC]
+	at org.apache.kafka.streams.processor.internals.StreamThread.runLoop(StreamThread.java:729) ~[kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.run(StreamThread.java:645) [kafka-streams-3.7.1.jar:?]
+Caused by: org.apache.kafka.common.errors.TopicAuthorizationException: Not authorized to access topics: [KHAN-OTP-TOPIC, KHAN-USER-TOPIC]
+2024-09-23 13:29:29 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-23 13:29:29 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-09-23 13:37:46 [http-nio-8080-exec-2] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Email Already Exists: khanshadab1515@gmail.com
+2024-09-24 11:07:58 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-09-24 11:07:58 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-22 12:07:24 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-22 12:07:24 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-22 12:07:26 [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1] ERROR org.apache.kafka.streams.processor.internals.RepartitionTopics - stream-thread [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1-consumer] Subtopology 0 has missing source topics [KHAN-OTP-TOPIC] and will be excluded from the current assignment, this can be due to the consumer client's metadata being stale or because they have not been created yet. Please verify that you have created all input topics; if they do exist, you just need to wait for the metadata to be updated, at which time a new rebalance will be kicked off automatically and the topology will be retried at that time.
+2024-10-22 12:07:26 [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1] ERROR org.apache.kafka.streams.processor.internals.RepartitionTopics - stream-thread [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1-consumer] Subtopology 1 has missing source topics [KHAN-USER-TOPIC] and will be excluded from the current assignment, this can be due to the consumer client's metadata being stale or because they have not been created yet. Please verify that you have created all input topics; if they do exist, you just need to wait for the metadata to be updated, at which time a new rebalance will be kicked off automatically and the topology will be retried at that time.
+2024-10-22 12:07:26 [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1] ERROR org.apache.kafka.streams.processor.internals.StreamsPartitionAssignor - stream-thread [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1-consumer] Caught an error in the task assignment. Returning an error assignment.
+org.apache.kafka.streams.errors.MissingSourceTopicException: Missing source topics.
+	at org.apache.kafka.streams.processor.internals.StreamsPartitionAssignor.prepareRepartitionTopics(StreamsPartitionAssignor.java:526) ~[kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamsPartitionAssignor.assign(StreamsPartitionAssignor.java:392) [kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.onLeaderElected(ConsumerCoordinator.java:645) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.AbstractCoordinator.onLeaderElected(AbstractCoordinator.java:766) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.AbstractCoordinator.access$1100(AbstractCoordinator.java:117) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.AbstractCoordinator$JoinGroupResponseHandler.handle(AbstractCoordinator.java:670) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.AbstractCoordinator$JoinGroupResponseHandler.handle(AbstractCoordinator.java:631) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.AbstractCoordinator$CoordinatorResponseHandler.onSuccess(AbstractCoordinator.java:1300) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.AbstractCoordinator$CoordinatorResponseHandler.onSuccess(AbstractCoordinator.java:1275) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.RequestFuture$1.onSuccess(RequestFuture.java:206) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.RequestFuture.fireSuccess(RequestFuture.java:169) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.RequestFuture.complete(RequestFuture.java:129) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.ConsumerNetworkClient$RequestFutureCompletionHandler.fireCompletion(ConsumerNetworkClient.java:616) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.ConsumerNetworkClient.firePendingCompletedRequests(ConsumerNetworkClient.java:428) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.ConsumerNetworkClient.poll(ConsumerNetworkClient.java:313) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.ConsumerNetworkClient.poll(ConsumerNetworkClient.java:252) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer.pollForFetches(LegacyKafkaConsumer.java:686) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer.poll(LegacyKafkaConsumer.java:617) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer.poll(LegacyKafkaConsumer.java:590) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.KafkaConsumer.poll(KafkaConsumer.java:874) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.pollRequests(StreamThread.java:1230) [kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.pollPhase(StreamThread.java:1178) [kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.runOnceWithoutProcessingThreads(StreamThread.java:909) [kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.runLoop(StreamThread.java:686) [kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.run(StreamThread.java:645) [kafka-streams-3.7.1.jar:?]
+2024-10-22 12:07:26 [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1] ERROR org.apache.kafka.streams.processor.internals.StreamThread - stream-thread [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1] Received error code INCOMPLETE_SOURCE_TOPIC_METADATA
+2024-10-22 12:07:26 [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1] ERROR org.apache.kafka.clients.consumer.internals.ConsumerRebalanceListenerInvoker - [Consumer clientId=OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1-consumer, groupId=OSC_01] User provided listener org.apache.kafka.streams.processor.internals.StreamsRebalanceListener failed on invocation of onPartitionsAssigned for partitions []
+org.apache.kafka.streams.errors.MissingSourceTopicException: One or more source topics were missing during rebalance
+	at org.apache.kafka.streams.processor.internals.StreamsRebalanceListener.onPartitionsAssigned(StreamsRebalanceListener.java:58) ~[kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.ConsumerRebalanceListenerInvoker.invokePartitionsAssigned(ConsumerRebalanceListenerInvoker.java:63) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.onJoinComplete(ConsumerCoordinator.java:420) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.AbstractCoordinator.joinGroupIfNeeded(AbstractCoordinator.java:503) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.AbstractCoordinator.ensureActiveGroup(AbstractCoordinator.java:414) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.poll(ConsumerCoordinator.java:506) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer.updateAssignmentMetadataIfNeeded(LegacyKafkaConsumer.java:651) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer.poll(LegacyKafkaConsumer.java:610) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer.poll(LegacyKafkaConsumer.java:590) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.KafkaConsumer.poll(KafkaConsumer.java:874) [kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.pollRequests(StreamThread.java:1230) [kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.pollPhase(StreamThread.java:1178) [kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.runOnceWithoutProcessingThreads(StreamThread.java:909) [kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.runLoop(StreamThread.java:686) [kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.run(StreamThread.java:645) [kafka-streams-3.7.1.jar:?]
+2024-10-22 12:07:26 [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd-StreamThread-1] ERROR org.apache.kafka.streams.KafkaStreams - stream-client [OSC_01-cc557334-a0e0-48c8-8cea-07c633a5ebbd] Encountered the following exception during processing and the registered exception handler opted to SHUTDOWN_CLIENT. The streams client is going to shut down now. 
+org.apache.kafka.streams.errors.MissingSourceTopicException: One or more source topics were missing during rebalance
+	at org.apache.kafka.streams.processor.internals.StreamsRebalanceListener.onPartitionsAssigned(StreamsRebalanceListener.java:58) ~[kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.ConsumerRebalanceListenerInvoker.invokePartitionsAssigned(ConsumerRebalanceListenerInvoker.java:63) ~[kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.onJoinComplete(ConsumerCoordinator.java:420) ~[kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.AbstractCoordinator.joinGroupIfNeeded(AbstractCoordinator.java:503) ~[kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.AbstractCoordinator.ensureActiveGroup(AbstractCoordinator.java:414) ~[kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.ConsumerCoordinator.poll(ConsumerCoordinator.java:506) ~[kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer.updateAssignmentMetadataIfNeeded(LegacyKafkaConsumer.java:651) ~[kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer.poll(LegacyKafkaConsumer.java:610) ~[kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer.poll(LegacyKafkaConsumer.java:590) ~[kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.clients.consumer.KafkaConsumer.poll(KafkaConsumer.java:874) ~[kafka-clients-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.pollRequests(StreamThread.java:1230) ~[kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.pollPhase(StreamThread.java:1178) ~[kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.runOnceWithoutProcessingThreads(StreamThread.java:909) ~[kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.runLoop(StreamThread.java:686) ~[kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.processor.internals.StreamThread.run(StreamThread.java:645) [kafka-streams-3.7.1.jar:?]
+2024-10-22 12:07:28 [main] ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2024-10-22 12:19:09 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-22 12:19:09 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-22 12:19:49 [http-nio-8787-exec-2] ERROR com.osc.userservice.service.login.LoginServiceImpl - Error occurred during session creation: UNAVAILABLE: io exception
+2024-10-22 12:22:50 [http-nio-8787-exec-3] ERROR com.osc.userservice.service.login.LoginServiceImpl - Error occurred during session creation: NOT_FOUND: User not found
+2024-10-22 12:32:59 [http-nio-8787-exec-4] ERROR com.osc.userservice.service.login.LoginServiceImpl - Error occurred during session creation: NOT_FOUND: User not found
+2024-10-22 12:36:29 [http-nio-8787-exec-7] ERROR com.osc.userservice.service.login.LoginServiceImpl - Error occurred during session creation: NOT_FOUND: User not found
+2024-10-22 12:40:24 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-22 12:40:24 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-22 12:40:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.springframework.kafka.listener.DefaultErrorHandler - Backoff FixedBackOff{interval=0, currentAttempts=1, maxAttempts=0} exhausted for KHAN-USER-TOPIC-8@0
+org.springframework.kafka.listener.ListenerExecutionFailedException: Listener method could not be invoked with the incoming message
+Endpoint handler details:
+Method [public void com.osc.userservice.kafka.consumer.UserConsumer.consumeUserMessage(java.lang.String,com.osc.userservice.dto.UserDTO)]
+Bean [com.osc.userservice.kafka.consumer.UserConsumer@59c6bf19]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.decorateException(KafkaMessageListenerContainer.java:2869) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2814) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeOnMessage(KafkaMessageListenerContainer.java:2778) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.lambda$doInvokeRecordListener$53(KafkaMessageListenerContainer.java:2701) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at io.micrometer.observation.Observation.observe(Observation.java:565) ~[micrometer-observation-1.13.2.jar:1.13.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeRecordListener(KafkaMessageListenerContainer.java:2699) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeWithRecords(KafkaMessageListenerContainer.java:2541) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeRecordListener(KafkaMessageListenerContainer.java:2430) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeListener(KafkaMessageListenerContainer.java:2085) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeIfHaveRecords(KafkaMessageListenerContainer.java:1461) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.pollAndInvoke(KafkaMessageListenerContainer.java:1426) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.run(KafkaMessageListenerContainer.java:1296) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+	Suppressed: org.springframework.kafka.listener.ListenerExecutionFailedException: Restored Stack Trace
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.checkAckArg(MessagingMessageListenerAdapter.java:446) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:424) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+Caused by: org.springframework.messaging.converter.MessageConversionException: Cannot handle message
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:424) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+	... 12 more
+Caused by: org.springframework.messaging.converter.MessageConversionException: Cannot convert from [java.lang.String] to [com.osc.userservice.dto.UserDTO] for GenericMessage [payload=    \user00014bhavikntamore113@gmail.com77985201102000-01-01Bhavik, headers={kafka_offset=0, kafka_consumer=org.springframework.kafka.core.DefaultKafkaConsumerFactory$ExtendedKafkaConsumer@423611b1, kafka_timestampType=CREATE_TIME, kafka_receivedPartitionId=8, kafka_receivedMessageKey=user0001, kafka_receivedTopic=KHAN-USER-TOPIC, kafka_receivedTimestamp=1729581048057, kafka_groupId=user-group}]
+	at org.springframework.messaging.handler.annotation.support.PayloadMethodArgumentResolver.resolveArgument(PayloadMethodArgumentResolver.java:151) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.KafkaNullAwarePayloadArgumentResolver.resolveArgument(KafkaNullAwarePayloadArgumentResolver.java:48) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.messaging.handler.invocation.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:118) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:147) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:115) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:70) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:420) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+	... 12 more
+2024-10-22 12:42:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.springframework.kafka.listener.DefaultErrorHandler - Backoff FixedBackOff{interval=0, currentAttempts=1, maxAttempts=0} exhausted for KHAN-USER-TOPIC-1@0
+org.springframework.kafka.listener.ListenerExecutionFailedException: Listener method could not be invoked with the incoming message
+Endpoint handler details:
+Method [public void com.osc.userservice.kafka.consumer.UserConsumer.consumeUserMessage(java.lang.String,com.osc.userservice.dto.UserDTO)]
+Bean [com.osc.userservice.kafka.consumer.UserConsumer@59c6bf19]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.decorateException(KafkaMessageListenerContainer.java:2869) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2814) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeOnMessage(KafkaMessageListenerContainer.java:2778) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.lambda$doInvokeRecordListener$53(KafkaMessageListenerContainer.java:2701) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at io.micrometer.observation.Observation.observe(Observation.java:565) ~[micrometer-observation-1.13.2.jar:1.13.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeRecordListener(KafkaMessageListenerContainer.java:2699) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeWithRecords(KafkaMessageListenerContainer.java:2541) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeRecordListener(KafkaMessageListenerContainer.java:2430) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeListener(KafkaMessageListenerContainer.java:2085) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeIfHaveRecords(KafkaMessageListenerContainer.java:1461) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.pollAndInvoke(KafkaMessageListenerContainer.java:1426) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.run(KafkaMessageListenerContainer.java:1296) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+	Suppressed: org.springframework.kafka.listener.ListenerExecutionFailedException: Restored Stack Trace
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.checkAckArg(MessagingMessageListenerAdapter.java:446) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:424) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+Caused by: org.springframework.messaging.converter.MessageConversionException: Cannot handle message
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:424) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+	... 12 more
+Caused by: org.springframework.messaging.converter.MessageConversionException: Cannot convert from [java.lang.String] to [com.osc.userservice.dto.UserDTO] for GenericMessage [payload=    \user00028khanshadab.softdev@gmail.com93265916402005-01-01shaddaab, headers={kafka_offset=0, kafka_consumer=org.springframework.kafka.core.DefaultKafkaConsumerFactory$ExtendedKafkaConsumer@423611b1, kafka_timestampType=CREATE_TIME, kafka_receivedPartitionId=1, kafka_receivedMessageKey=user0002, kafka_receivedTopic=KHAN-USER-TOPIC, kafka_receivedTimestamp=1729581168749, kafka_groupId=user-group}]
+	at org.springframework.messaging.handler.annotation.support.PayloadMethodArgumentResolver.resolveArgument(PayloadMethodArgumentResolver.java:151) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.KafkaNullAwarePayloadArgumentResolver.resolveArgument(KafkaNullAwarePayloadArgumentResolver.java:48) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.messaging.handler.invocation.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:118) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:147) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:115) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:70) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:420) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+	... 12 more
+2024-10-22 12:43:36 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.springframework.kafka.listener.DefaultErrorHandler - Backoff FixedBackOff{interval=0, currentAttempts=1, maxAttempts=0} exhausted for KHAN-USER-TOPIC-1@1
+org.springframework.kafka.listener.ListenerExecutionFailedException: Listener method could not be invoked with the incoming message
+Endpoint handler details:
+Method [public void com.osc.userservice.kafka.consumer.UserConsumer.consumeUserMessage(java.lang.String,com.osc.userservice.dto.UserDTO)]
+Bean [com.osc.userservice.kafka.consumer.UserConsumer@59c6bf19]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.decorateException(KafkaMessageListenerContainer.java:2869) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2814) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeOnMessage(KafkaMessageListenerContainer.java:2778) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.lambda$doInvokeRecordListener$53(KafkaMessageListenerContainer.java:2701) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at io.micrometer.observation.Observation.observe(Observation.java:565) ~[micrometer-observation-1.13.2.jar:1.13.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeRecordListener(KafkaMessageListenerContainer.java:2699) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeWithRecords(KafkaMessageListenerContainer.java:2541) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeRecordListener(KafkaMessageListenerContainer.java:2430) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeListener(KafkaMessageListenerContainer.java:2085) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeIfHaveRecords(KafkaMessageListenerContainer.java:1461) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.pollAndInvoke(KafkaMessageListenerContainer.java:1426) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.run(KafkaMessageListenerContainer.java:1296) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+	Suppressed: org.springframework.kafka.listener.ListenerExecutionFailedException: Restored Stack Trace
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.checkAckArg(MessagingMessageListenerAdapter.java:446) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:427) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+Caused by: org.springframework.messaging.handler.annotation.support.MethodArgumentNotValidException: Could not resolve method parameter at index 0 in public void com.osc.userservice.kafka.consumer.UserConsumer.consumeUserMessage(java.lang.String,com.osc.userservice.dto.UserDTO): 1 error(s): [Error in object 'userId': codes []; arguments []; default message [Payload value must not be empty]] 
+	at org.springframework.messaging.handler.annotation.support.PayloadMethodArgumentResolver.resolveArgument(PayloadMethodArgumentResolver.java:128) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.KafkaNullAwarePayloadArgumentResolver.resolveArgument(KafkaNullAwarePayloadArgumentResolver.java:48) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.messaging.handler.invocation.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:118) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:147) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:115) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:70) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:420) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+	... 12 more
+2024-10-22 13:54:58 [http-nio-8787-exec-1] ERROR com.osc.userservice.service.login.LoginServiceImpl - Error occurred during session creation: NOT_FOUND: User not found
+2024-10-22 13:55:55 [http-nio-8787-exec-3] ERROR com.osc.userservice.service.login.LoginServiceImpl - Error occurred during session creation: NOT_FOUND: User not found
+2024-10-24 14:41:01 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-24 14:41:01 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-24 14:52:38 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-24 14:52:38 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-24 15:18:16 [http-nio-8787-exec-9] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0002 - UNKNOWN
+2024-10-24 15:18:16 [http-nio-8787-exec-9] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0002
+2024-10-24 15:18:25 [http-nio-8787-exec-10] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0002 - UNKNOWN
+2024-10-24 15:18:25 [http-nio-8787-exec-10] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0002
+2024-10-24 15:31:09 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-24 15:31:09 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-24 15:38:22 [http-nio-8787-exec-2] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0003 - UNKNOWN
+2024-10-24 15:38:22 [http-nio-8787-exec-2] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0003
+2024-10-24 15:38:37 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-24 15:38:37 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-24 15:40:13 [http-nio-8787-exec-1] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0002 - UNKNOWN
+2024-10-24 15:41:21 [http-nio-8787-exec-1] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0002
+2024-10-24 15:41:32 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-24 15:41:32 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-24 15:48:16 [http-nio-8787-exec-2] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0002 - UNKNOWN
+2024-10-24 15:48:16 [http-nio-8787-exec-2] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0002
+2024-10-24 15:48:29 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-24 15:48:29 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-24 15:50:29 [http-nio-8787-exec-3] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0002 - UNKNOWN
+2024-10-24 15:51:36 [http-nio-8787-exec-3] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0002
+2024-10-24 15:52:39 [http-nio-8787-exec-4] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0002 - UNKNOWN
+2024-10-24 15:52:39 [http-nio-8787-exec-4] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0002
+2024-10-24 15:52:44 [http-nio-8787-exec-1] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0002 - UNKNOWN
+2024-10-24 15:52:44 [http-nio-8787-exec-1] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0002
+2024-10-24 15:58:52 [http-nio-8787-exec-5] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0002 - UNKNOWN
+2024-10-24 15:58:52 [http-nio-8787-exec-5] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0002
+2024-10-24 16:10:45 [http-nio-8787-exec-6] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0002 - UNKNOWN
+2024-10-24 16:10:51 [http-nio-8787-exec-6] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0002
+2024-10-24 16:14:47 [http-nio-8787-exec-7] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user0002 - CANCELLED: Thread interrupted
+2024-10-24 16:14:47 [http-nio-8787-exec-7] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user0002
+2024-10-24 16:14:59 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-24 16:14:59 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-24 17:17:34 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-24 17:17:34 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-24 17:20:19 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.springframework.kafka.listener.DefaultErrorHandler - Backoff FixedBackOff{interval=0, currentAttempts=1, maxAttempts=0} exhausted for KHAN-USER-TOPIC-8@1
+org.springframework.kafka.listener.ListenerExecutionFailedException: Listener method could not be invoked with the incoming message
+Endpoint handler details:
+Method [public void com.osc.userservice.kafka.consumer.UserConsumer.consumeUserMessage(java.lang.String,com.osc.userservice.dto.UserDTO)]
+Bean [com.osc.userservice.kafka.consumer.UserConsumer@43286d16]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.decorateException(KafkaMessageListenerContainer.java:2869) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2814) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeOnMessage(KafkaMessageListenerContainer.java:2778) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.lambda$doInvokeRecordListener$53(KafkaMessageListenerContainer.java:2701) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at io.micrometer.observation.Observation.observe(Observation.java:565) ~[micrometer-observation-1.13.2.jar:1.13.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeRecordListener(KafkaMessageListenerContainer.java:2699) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeWithRecords(KafkaMessageListenerContainer.java:2541) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeRecordListener(KafkaMessageListenerContainer.java:2430) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeListener(KafkaMessageListenerContainer.java:2085) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeIfHaveRecords(KafkaMessageListenerContainer.java:1461) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.pollAndInvoke(KafkaMessageListenerContainer.java:1426) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.run(KafkaMessageListenerContainer.java:1296) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+	Suppressed: org.springframework.kafka.listener.ListenerExecutionFailedException: Restored Stack Trace
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.checkAckArg(MessagingMessageListenerAdapter.java:446) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:424) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+Caused by: org.springframework.messaging.converter.MessageConversionException: Cannot handle message
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:424) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+	... 12 more
+Caused by: org.springframework.messaging.converter.MessageConversionException: Cannot convert from [java.lang.String] to [com.osc.userservice.dto.UserDTO] for GenericMessage [payload=    \user0001(kirtan.c@orosoft.com83265916302024-10-23Kirtan Chauhan, headers={kafka_offset=1, kafka_consumer=org.springframework.kafka.core.DefaultKafkaConsumerFactory$ExtendedKafkaConsumer@4afe8aef, kafka_timestampType=CREATE_TIME, kafka_receivedPartitionId=8, kafka_receivedMessageKey=user0001, kafka_receivedTopic=KHAN-USER-TOPIC, kafka_receivedTimestamp=1729770619678, kafka_groupId=user-group}]
+	at org.springframework.messaging.handler.annotation.support.PayloadMethodArgumentResolver.resolveArgument(PayloadMethodArgumentResolver.java:151) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.KafkaNullAwarePayloadArgumentResolver.resolveArgument(KafkaNullAwarePayloadArgumentResolver.java:48) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.messaging.handler.invocation.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:118) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:147) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:115) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:70) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:420) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+	... 12 more
+2024-10-24 17:24:18 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.springframework.kafka.listener.DefaultErrorHandler - Backoff FixedBackOff{interval=0, currentAttempts=1, maxAttempts=0} exhausted for KHAN-USER-TOPIC-1@2
+org.springframework.kafka.listener.ListenerExecutionFailedException: Listener method could not be invoked with the incoming message
+Endpoint handler details:
+Method [public void com.osc.userservice.kafka.consumer.UserConsumer.consumeUserMessage(java.lang.String,com.osc.userservice.dto.UserDTO)]
+Bean [com.osc.userservice.kafka.consumer.UserConsumer@43286d16]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.decorateException(KafkaMessageListenerContainer.java:2869) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2814) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeOnMessage(KafkaMessageListenerContainer.java:2778) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.lambda$doInvokeRecordListener$53(KafkaMessageListenerContainer.java:2701) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at io.micrometer.observation.Observation.observe(Observation.java:565) ~[micrometer-observation-1.13.2.jar:1.13.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeRecordListener(KafkaMessageListenerContainer.java:2699) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeWithRecords(KafkaMessageListenerContainer.java:2541) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeRecordListener(KafkaMessageListenerContainer.java:2430) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeListener(KafkaMessageListenerContainer.java:2085) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeIfHaveRecords(KafkaMessageListenerContainer.java:1461) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.pollAndInvoke(KafkaMessageListenerContainer.java:1426) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.run(KafkaMessageListenerContainer.java:1296) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+	Suppressed: org.springframework.kafka.listener.ListenerExecutionFailedException: Restored Stack Trace
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.checkAckArg(MessagingMessageListenerAdapter.java:446) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:424) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+Caused by: org.springframework.messaging.converter.MessageConversionException: Cannot handle message
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:424) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+	... 12 more
+Caused by: org.springframework.messaging.converter.MessageConversionException: Cannot convert from [java.lang.String] to [com.osc.userservice.dto.UserDTO] for GenericMessage [payload=    \user00020kirtan1chauhan@gmail.com83265916302024-10-23Kirtan Chauhan, headers={kafka_offset=2, kafka_consumer=org.springframework.kafka.core.DefaultKafkaConsumerFactory$ExtendedKafkaConsumer@4afe8aef, kafka_timestampType=CREATE_TIME, kafka_receivedPartitionId=1, kafka_receivedMessageKey=user0002, kafka_receivedTopic=KHAN-USER-TOPIC, kafka_receivedTimestamp=1729770858636, kafka_groupId=user-group}]
+	at org.springframework.messaging.handler.annotation.support.PayloadMethodArgumentResolver.resolveArgument(PayloadMethodArgumentResolver.java:151) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.KafkaNullAwarePayloadArgumentResolver.resolveArgument(KafkaNullAwarePayloadArgumentResolver.java:48) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.messaging.handler.invocation.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:118) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:147) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:115) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:70) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:420) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+	... 12 more
+2024-10-24 17:29:17 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-24 17:29:17 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-24 17:30:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.springframework.kafka.listener.DefaultErrorHandler - Backoff FixedBackOff{interval=0, currentAttempts=1, maxAttempts=0} exhausted for KHAN-USER-TOPIC-0@0
+org.springframework.kafka.listener.ListenerExecutionFailedException: Listener method could not be invoked with the incoming message
+Endpoint handler details:
+Method [public void com.osc.userservice.kafka.consumer.UserConsumer.consumeUserMessage(java.lang.String,com.osc.userservice.dto.UserDTO)]
+Bean [com.osc.userservice.kafka.consumer.UserConsumer@2a343a90]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.decorateException(KafkaMessageListenerContainer.java:2869) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2814) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeOnMessage(KafkaMessageListenerContainer.java:2778) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.lambda$doInvokeRecordListener$53(KafkaMessageListenerContainer.java:2701) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at io.micrometer.observation.Observation.observe(Observation.java:565) ~[micrometer-observation-1.13.2.jar:1.13.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeRecordListener(KafkaMessageListenerContainer.java:2699) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeWithRecords(KafkaMessageListenerContainer.java:2541) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeRecordListener(KafkaMessageListenerContainer.java:2430) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeListener(KafkaMessageListenerContainer.java:2085) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.invokeIfHaveRecords(KafkaMessageListenerContainer.java:1461) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.pollAndInvoke(KafkaMessageListenerContainer.java:1426) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.run(KafkaMessageListenerContainer.java:1296) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+	Suppressed: org.springframework.kafka.listener.ListenerExecutionFailedException: Restored Stack Trace
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.checkAckArg(MessagingMessageListenerAdapter.java:446) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:424) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+		at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+Caused by: org.springframework.messaging.converter.MessageConversionException: Cannot handle message
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:424) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+	... 12 more
+Caused by: org.springframework.messaging.converter.MessageConversionException: Cannot convert from [java.lang.String] to [com.osc.userservice.dto.UserDTO] for GenericMessage [payload=    \user00060kirtan1chauhan@gmail.com83265916302024-10-16Kirtan Chauhan, headers={kafka_offset=0, kafka_consumer=org.springframework.kafka.core.DefaultKafkaConsumerFactory$ExtendedKafkaConsumer@2f7c57b7, kafka_timestampType=CREATE_TIME, kafka_receivedPartitionId=0, kafka_receivedMessageKey=user0006, kafka_receivedTopic=KHAN-USER-TOPIC, kafka_receivedTimestamp=1729771221068, kafka_groupId=user-group}]
+	at org.springframework.messaging.handler.annotation.support.PayloadMethodArgumentResolver.resolveArgument(PayloadMethodArgumentResolver.java:151) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.KafkaNullAwarePayloadArgumentResolver.resolveArgument(KafkaNullAwarePayloadArgumentResolver.java:48) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.messaging.handler.invocation.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:118) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:147) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.messaging.handler.invocation.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:115) ~[spring-messaging-6.1.11.jar:6.1.11]
+	at org.springframework.kafka.listener.adapter.HandlerAdapter.invoke(HandlerAdapter.java:70) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invokeHandler(MessagingMessageListenerAdapter.java:420) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.MessagingMessageListenerAdapter.invoke(MessagingMessageListenerAdapter.java:384) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:85) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.adapter.RecordMessagingMessageListenerAdapter.onMessage(RecordMessagingMessageListenerAdapter.java:50) ~[spring-kafka-3.2.2.jar:3.2.2]
+	at org.springframework.kafka.listener.KafkaMessageListenerContainer$ListenerConsumer.doInvokeOnMessage(KafkaMessageListenerContainer.java:2800) ~[spring-kafka-3.2.2.jar:3.2.2]
+	... 12 more
+2024-10-24 17:30:35 [http-nio-8787-exec-2] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - OTPInvalid when Registration: user0006
+2024-10-24 17:31:06 [http-nio-8787-exec-6] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - OTPInvalid when Registration: user0006
+2024-10-24 17:33:01 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-24 17:33:01 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-24 17:33:28 [http-nio-8787-exec-1] ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.apache.kafka.streams.errors.InvalidStateStoreException: Cannot get state store KHAN-OTP-STORE because the stream thread is STARTING, not RUNNING] with root cause
+org.apache.kafka.streams.errors.InvalidStateStoreException: Cannot get state store KHAN-OTP-STORE because the stream thread is STARTING, not RUNNING
+	at org.apache.kafka.streams.state.internals.StreamThreadStateStoreProvider.stores(StreamThreadStateStoreProvider.java:88) ~[kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.state.internals.WrappingStoreProvider.stores(WrappingStoreProvider.java:52) ~[kafka-streams-3.7.1.jar:?]
+	at org.apache.kafka.streams.state.internals.CompositeReadOnlyKeyValueStore.get(CompositeReadOnlyKeyValueStore.java:53) ~[kafka-streams-3.7.1.jar:?]
+	at com.osc.userservice.kafka.consumer.KafkaRecordService.getOtpByKey(KafkaRecordService.java:35) ~[classes/:?]
+	at com.osc.userservice.service.signup.SignUpServiceImpl.validateEmail(SignUpServiceImpl.java:87) ~[classes/:?]
+	at com.osc.userservice.controller.UserController.emailValidation(UserController.java:58) ~[classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:255) ~[spring-web-6.1.11.jar:6.1.11]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:188) ~[spring-web-6.1.11.jar:6.1.11]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118) ~[spring-webmvc-6.1.11.jar:6.1.11]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:926) ~[spring-webmvc-6.1.11.jar:6.1.11]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:831) ~[spring-webmvc-6.1.11.jar:6.1.11]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-6.1.11.jar:6.1.11]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089) ~[spring-webmvc-6.1.11.jar:6.1.11]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979) ~[spring-webmvc-6.1.11.jar:6.1.11]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014) ~[spring-webmvc-6.1.11.jar:6.1.11]
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914) ~[spring-webmvc-6.1.11.jar:6.1.11]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885) ~[spring-webmvc-6.1.11.jar:6.1.11]
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:195) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51) ~[tomcat-embed-websocket-10.1.26.jar:10.1.26]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-6.1.11.jar:6.1.11]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.11.jar:6.1.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-6.1.11.jar:6.1.11]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.11.jar:6.1.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-6.1.11.jar:6.1.11]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116) ~[spring-web-6.1.11.jar:6.1.11]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:164) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:140) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:483) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:389) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:904) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1741) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1190) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63) ~[tomcat-embed-core-10.1.26.jar:10.1.26]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+2024-10-24 17:34:38 [http-nio-8787-exec-3] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - OTPInvalid when Registration: user0006
+2024-10-24 17:35:16 [http-nio-8787-exec-2] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Maximum Attempts Reached : user0006
+2024-10-24 18:28:01 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - gRPC call failed for user creation: exa@gmail.com
+io.grpc.StatusRuntimeException: null
+2024-10-24 18:28:01 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - User not found in Kafka for userId: User0001
+2024-10-24 18:28:01 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - gRPC call failed while adding password for userId: User0001
+io.grpc.StatusRuntimeException: null
+2024-10-24 18:28:01 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - OTP not found for userId: User0001
+2024-10-24 18:28:01 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - Failed to register user in DB for userId: User0001
+2024-10-28 16:22:56 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-28 16:22:56 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-28 16:23:18 [http-nio-8787-exec-2] ERROR com.osc.userservice.service.login.SessionStatusService - Active Session for UserId: user0006
+2024-10-28 16:23:30 [http-nio-8787-exec-4] ERROR com.osc.userservice.service.login.SessionStatusService - Active Session for UserId: user0006
+2024-10-29 11:23:51 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - gRPC call failed for user creation: exa@gmail.com
+io.grpc.StatusRuntimeException: null
+2024-10-29 11:23:51 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - User not found in Kafka for userId: user9326591640
+2024-10-29 11:23:51 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - gRPC call failed while adding password for userId: user9326591640
+io.grpc.StatusRuntimeException: null
+2024-10-29 11:23:51 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - OTP not found for userId: user9326591640
+2024-10-29 11:23:51 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - Failed to register user in DB for userId: user9326591640
+2024-10-29 11:24:47 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - gRPC call failed for user creation: exa@gmail.com
+io.grpc.StatusRuntimeException: null
+2024-10-29 11:24:47 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - User not found in Kafka for userId: user9326591640
+2024-10-29 11:24:47 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - gRPC call failed while adding password for userId: user9326591640
+io.grpc.StatusRuntimeException: null
+2024-10-29 11:24:47 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - OTP not found for userId: user9326591640
+2024-10-29 11:24:47 [main] ERROR com.osc.userservice.service.signup.SignUpServiceImpl - Failed to register user in DB for userId: user9326591640
+2024-10-29 11:34:53 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-29 11:34:53 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-29 12:08:58 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-29 12:08:58 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-10-29 12:12:44 [http-nio-8787-exec-2] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user9326591640 - UNAVAILABLE: io exception
+2024-10-29 12:12:44 [http-nio-8787-exec-2] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user9326591640
+2024-10-31 12:21:29 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-10-31 12:21:29 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-11-04 10:25:03 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams
+2024-11-04 10:25:03 [main] ERROR org.apache.kafka.streams.processor.internals.StateDirectory - Failed to change permissions for the directory C:\Users\SHADAB~1\AppData\Local\Temp\kafka-streams\OSC_01
+2024-11-04 11:58:44 [http-nio-8787-exec-8] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user9326591640 - UNKNOWN
+2024-11-04 11:58:44 [http-nio-8787-exec-9] ERROR com.osc.userservice.service.logout.LogoutServiceImpl - Error occurred during logout for user: user9326591640 - UNKNOWN
+2024-11-04 11:58:44 [http-nio-8787-exec-9] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user9326591640
+2024-11-04 11:58:44 [http-nio-8787-exec-8] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Grpc Call Failed : user9326591640
+2024-11-04 12:20:24 [http-nio-8787-exec-2] ERROR com.osc.userservice.service.login.UserCredentialService - Invalid Password for UserId: user9326591640
+2024-11-04 12:20:24 [http-nio-8787-exec-2] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Invalid Password  when Login : user9326591640
+2024-11-04 12:20:40 [http-nio-8787-exec-4] ERROR com.osc.userservice.service.login.UserCredentialService - Invalid Password for UserId: user9326591640
+2024-11-04 12:20:40 [http-nio-8787-exec-4] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Invalid Password  when Login : user9326591640
+2024-11-04 12:22:30 [http-nio-8787-exec-7] ERROR com.osc.userservice.service.login.UserCredentialService - Invalid Password for UserId: user9326591640
+2024-11-04 12:22:30 [http-nio-8787-exec-7] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Invalid Password  when Login : user9326591640
+2024-11-04 12:27:04 [http-nio-8787-exec-8] ERROR com.osc.userservice.service.login.UserCredentialService - Invalid Password for UserId: user9326591640
+2024-11-04 12:27:04 [http-nio-8787-exec-8] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Invalid Password  when Login : user9326591640
+2024-11-04 12:29:51 [http-nio-8787-exec-4] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - OTPInvalid when Registration: user8356095971
+2024-11-04 12:30:35 [http-nio-8787-exec-7] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - OTPInvalid when Registration: user8356095971
+2024-11-04 12:34:23 [http-nio-8787-exec-3] ERROR com.osc.userservice.service.login.UserCredentialService - Invalid Password for UserId: user8356095971
+2024-11-04 12:34:23 [http-nio-8787-exec-3] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Invalid Password  when Login : user8356095971
+2024-11-04 12:37:13 [http-nio-8787-exec-5] ERROR com.osc.userservice.service.login.UserCredentialService - Invalid Password for UserId: user8356095971
+2024-11-04 12:37:13 [http-nio-8787-exec-5] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Invalid Password  when Login : user8356095971
+2024-11-04 12:40:13 [http-nio-8787-exec-9] ERROR com.osc.userservice.service.login.UserCredentialService - Invalid Password for UserId: user8356095971
+2024-11-04 12:40:13 [http-nio-8787-exec-9] ERROR com.osc.userservice.exception.CustomGlobalExceptionHandler - Invalid Password  when Login : user8356095971

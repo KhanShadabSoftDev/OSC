@@ -1,0 +1,4 @@
+2024-09-19 16:47:23 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.apache.kafka.clients.Metadata - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Topic authorization failed for topics [KHAN-OTP-TOPIC]
+2024-09-19 16:47:24 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.springframework.kafka.listener.KafkaMessageListenerContainer - Authentication/Authorization Exception and no authExceptionRetryInterval set
+org.apache.kafka.common.errors.TopicAuthorizationException: Not authorized to access topics: [KHAN-OTP-TOPIC]
+2024-09-19 16:47:24 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.springframework.kafka.listener.KafkaMessageListenerContainer - Fatal consumer exception; stopping container

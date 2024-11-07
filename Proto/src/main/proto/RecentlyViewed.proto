@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+package com.general.recentHistory;
+import "google/protobuf/empty.proto";
+option java_multiple_files = true;
+option java_package = "com.grpc.recentHistory";
+
+message RecentlyViewedRequest {
+  string userId = 1;
+}
+
+message RecentlyViewedResponse{
+  repeated string productId = 1;
+}
+
+message UpdateRecentViewedRequest {
+  string userId = 1;
+  string productId = 2;
+}
+message SyncRecentlyViewedRequest {
+  string userId = 1;
+}
+
+service RecentlyViewedService{
+  rpc fetchRecentlyViewedHistory (RecentlyViewedRequest) returns (RecentlyViewedResponse);
+  rpc  updateRecentlyViewedProducts(UpdateRecentViewedRequest) returns(google.protobuf.Empty);
+  rpc syncRecentlyViewedFromKafka(SyncRecentlyViewedRequest) returns (google.protobuf.Empty);
+
+}

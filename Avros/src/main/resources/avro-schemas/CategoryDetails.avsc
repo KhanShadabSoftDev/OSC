@@ -1,0 +1,10 @@
+{
+  "type": "record",
+  "name": "CategoryDetails",
+  "namespace": "com.osc.avro",
+  "fields": [
+    {"name": "categoryId", "type": "string"},
+    {"name": "categoryName", "type": "string"},
+    {"name": "imagePath", "type": "string"}
+  ]
+}

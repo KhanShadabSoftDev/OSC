@@ -1,0 +1,41 @@
+2024-10-31 12:11:27:311 [main] INFO  com.osc.dashboardservice.DashboardServiceApplication                             - Starting DashboardServiceApplication using Java 22.0.1 with PID 20544 (C:\Users\Shadab Khan\Projects\OSC\DashboardService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-10-31 12:11:27:324 [main] INFO  com.osc.dashboardservice.DashboardServiceApplication                             - No active profile set, falling back to 1 default profile: "default"
+2024-10-31 12:11:28:430 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer                     - Tomcat initialized with port 8000 (http)
+2024-10-31 12:11:28:445 [main] INFO  org.apache.coyote.http11.Http11NioProtocol                                       - Initializing ProtocolHandler ["http-nio-8000"]
+2024-10-31 12:11:28:450 [main] INFO  org.apache.catalina.core.StandardService                                         - Starting service [Tomcat]
+2024-10-31 12:11:28:450 [main] INFO  org.apache.catalina.core.StandardEngine                                          - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-31 12:11:28:496 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]                  - Initializing Spring embedded WebApplicationContext
+2024-10-31 12:11:28:498 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  - Root WebApplicationContext: initialization completed in 1135 ms
+2024-10-31 12:11:29:228 [main] INFO  org.apache.coyote.http11.Http11NioProtocol                                       - Starting ProtocolHandler ["http-nio-8000"]
+2024-10-31 12:11:29:246 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer                     - Tomcat started on port 8000 (http) with context path '/'
+2024-10-31 12:11:29:255 [main] INFO  com.osc.dashboardservice.DashboardServiceApplication                             - Started DashboardServiceApplication in 2.47 seconds (process running for 3.903)
+2024-10-31 12:18:02:542 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer                     - Tomcat initialized with port 8000 (http)
+2024-10-31 12:18:02:561 [main] INFO  org.apache.coyote.http11.Http11NioProtocol                                       - Initializing ProtocolHandler ["http-nio-8000"]
+2024-10-31 12:18:02:565 [main] INFO  org.apache.catalina.core.StandardService                                         - Starting service [Tomcat]
+2024-10-31 12:18:02:566 [main] INFO  org.apache.catalina.core.StandardEngine                                          - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-31 12:18:02:607 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]                  - Initializing Spring embedded WebApplicationContext
+2024-10-31 12:18:02:608 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  - Root WebApplicationContext: initialization completed in 1046 ms
+2024-10-31 12:18:03:277 [main] INFO  org.apache.coyote.http11.Http11NioProtocol                                       - Starting ProtocolHandler ["http-nio-8000"]
+2024-10-31 12:18:03:297 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer                     - Tomcat started on port 8000 (http) with context path '/'
+2024-10-31 12:19:06:842 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer                     - Tomcat initialized with port 8000 (http)
+2024-10-31 12:19:06:857 [main] INFO  org.apache.coyote.http11.Http11NioProtocol                                       - Initializing ProtocolHandler ["http-nio-8000"]
+2024-10-31 12:19:06:860 [main] INFO  org.apache.catalina.core.StandardService                                         - Starting service [Tomcat]
+2024-10-31 12:19:06:860 [main] INFO  org.apache.catalina.core.StandardEngine                                          - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-10-31 12:19:06:897 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]                  - Initializing Spring embedded WebApplicationContext
+2024-10-31 12:19:06:898 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  - Root WebApplicationContext: initialization completed in 951 ms
+2024-10-31 12:19:07:537 [main] INFO  org.apache.coyote.http11.Http11NioProtocol                                       - Starting ProtocolHandler ["http-nio-8000"]
+2024-10-31 12:19:07:555 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer                     - Tomcat started on port 8000 (http) with context path '/'
+2024-10-31 12:23:09:509 [http-nio-8000-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]                  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-31 12:23:09:537 [http-nio-8000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet                                - Initializing Servlet 'dispatcherServlet'
+2024-10-31 12:23:09:620 [http-nio-8000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet                                - Completed initialization in 83 ms
+2024-11-04 10:24:36:742 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer                     - Tomcat initialized with port 8000 (http)
+2024-11-04 10:24:36:758 [main] INFO  org.apache.coyote.http11.Http11NioProtocol                                       - Initializing ProtocolHandler ["http-nio-8000"]
+2024-11-04 10:24:36:758 [main] INFO  org.apache.catalina.core.StandardService                                         - Starting service [Tomcat]
+2024-11-04 10:24:36:758 [main] INFO  org.apache.catalina.core.StandardEngine                                          - Starting Servlet engine: [Apache Tomcat/10.1.30]
+2024-11-04 10:24:36:836 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]                  - Initializing Spring embedded WebApplicationContext
+2024-11-04 10:24:36:836 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext  - Root WebApplicationContext: initialization completed in 1641 ms
+2024-11-04 10:24:37:796 [main] INFO  org.apache.coyote.http11.Http11NioProtocol                                       - Starting ProtocolHandler ["http-nio-8000"]
+2024-11-04 10:24:37:846 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer                     - Tomcat started on port 8000 (http) with context path '/'
+2024-11-04 12:42:32:467 [http-nio-8000-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]                  - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-11-04 12:42:32:493 [http-nio-8000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet                                - Initializing Servlet 'dispatcherServlet'
+2024-11-04 12:42:32:587 [http-nio-8000-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet                                - Completed initialization in 94 ms

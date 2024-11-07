@@ -1,0 +1,793 @@
+2024-09-13 14:22:20 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 15576 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:22:20 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:22:22 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 2.119 seconds (process running for 3.147)
+2024-09-13 14:22:22 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:25:23 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:25:24 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:25:28 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 8212 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:25:28 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:25:29 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.745 seconds (process running for 2.793)
+2024-09-13 14:25:29 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:43:24 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:43:25 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:43:29 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 10068 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:43:29 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:43:30 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.895 seconds (process running for 3.008)
+2024-09-13 14:43:30 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:44:00 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:44:01 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:44:05 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 1904 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:44:05 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:44:06 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.738 seconds (process running for 2.779)
+2024-09-13 14:44:06 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:44:16 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:44:17 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:44:20 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 18660 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:44:20 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:44:21 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.726 seconds (process running for 2.742)
+2024-09-13 14:44:22 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:44:43 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:44:43 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:44:47 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 18488 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:44:47 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:44:48 [main] INFO  org.apache.kafka.clients.consumer.ConsumerConfig - ConsumerConfig values: 
+	allow.auto.create.topics = true
+	auto.commit.interval.ms = 5000
+	auto.include.jmx.reporter = true
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.99.223:19092]
+	check.crcs = true
+	client.dns.lookup = use_all_dns_ips
+	client.id = consumer-mail-grp-01-1
+	client.rack = 
+	connections.max.idle.ms = 540000
+	default.api.timeout.ms = 60000
+	enable.auto.commit = false
+	enable.metrics.push = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = mail-grp-01
+	group.instance.id = null
+	group.protocol = classic
+	group.remote.assignor = null
+	heartbeat.interval.ms = 3000
+	interceptor.classes = []
+	internal.leave.group.on.close = true
+	internal.throw.on.fetch.stable.offset.unsupported = false
+	isolation.level = read_uncommitted
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor, class org.apache.kafka.clients.consumer.CooperativeStickyAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retry.backoff.max.ms = 1000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	session.timeout.ms = 45000
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class io.confluent.kafka.serializers.KafkaAvroDeserializer
+
+2024-09-13 14:44:48 [main] INFO  org.apache.kafka.common.telemetry.internals.KafkaMetricsCollector - initializing Kafka metrics collector
+2024-09-13 14:44:48 [main] INFO  io.confluent.kafka.serializers.KafkaAvroDeserializerConfig - KafkaAvroDeserializerConfig values: 
+	auto.register.schemas = true
+	avro.reflection.allow.null = false
+	avro.use.logical.type.converters = false
+	basic.auth.credentials.source = URL
+	basic.auth.user.info = [hidden]
+	bearer.auth.credentials.source = STATIC_TOKEN
+	bearer.auth.token = [hidden]
+	context.name.strategy = class io.confluent.kafka.serializers.context.NullContextNameStrategy
+	id.compatibility.strict = true
+	key.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+	latest.compatibility.strict = true
+	max.schemas.per.subject = 1000
+	normalize.schemas = false
+	proxy.host = 
+	proxy.port = -1
+	schema.reflection = false
+	schema.registry.basic.auth.user.info = [hidden]
+	schema.registry.ssl.cipher.suites = null
+	schema.registry.ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	schema.registry.ssl.endpoint.identification.algorithm = https
+	schema.registry.ssl.engine.factory.class = null
+	schema.registry.ssl.key.password = null
+	schema.registry.ssl.keymanager.algorithm = SunX509
+	schema.registry.ssl.keystore.certificate.chain = null
+	schema.registry.ssl.keystore.key = null
+	schema.registry.ssl.keystore.location = null
+	schema.registry.ssl.keystore.password = null
+	schema.registry.ssl.keystore.type = JKS
+	schema.registry.ssl.protocol = TLSv1.3
+	schema.registry.ssl.provider = null
+	schema.registry.ssl.secure.random.implementation = null
+	schema.registry.ssl.trustmanager.algorithm = PKIX
+	schema.registry.ssl.truststore.certificates = null
+	schema.registry.ssl.truststore.location = null
+	schema.registry.ssl.truststore.password = null
+	schema.registry.ssl.truststore.type = JKS
+	schema.registry.url = [http://192.168.99.223:18081]
+	specific.avro.reader = true
+	use.latest.version = false
+	use.schema.id = -1
+	value.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+
+2024-09-13 14:44:48 [main] INFO  org.apache.kafka.clients.consumer.ConsumerConfig - These configurations '[schema.registry.url, specific.avro.reader]' were supplied but are not used yet.
+2024-09-13 14:44:48 [main] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka version: 3.7.1
+2024-09-13 14:44:48 [main] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka commitId: e2494e6ffb89f828
+2024-09-13 14:44:48 [main] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1726218888616
+2024-09-13 14:44:48 [main] INFO  org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Subscribed to topic(s): KHAN-OTP-TOPIC
+2024-09-13 14:44:48 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.814 seconds (process running for 2.861)
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.Metadata - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Cluster ID: redpanda.78ad51b7-ec9a-4227-a682-ebeac14a75c6
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Discovered group coordinator 192.168.99.223:19092 (id: 2147483647 rack: null)
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] (Re-)joining group
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Request joining group due to: need to re-join with the given member-id: consumer-mail-grp-01-1-71fe1d90-ee21-42c6-a283-9a8780e5f12b
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] (Re-)joining group
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Successfully joined group with generation Generation{generationId=65, memberId='consumer-mail-grp-01-1-71fe1d90-ee21-42c6-a283-9a8780e5f12b', protocol='range'}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Finished assignment for group at generation 65: {consumer-mail-grp-01-1-71fe1d90-ee21-42c6-a283-9a8780e5f12b=Assignment(partitions=[KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11])}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Successfully synced group in generation Generation{generationId=65, memberId='consumer-mail-grp-01-1-71fe1d90-ee21-42c6-a283-9a8780e5f12b', protocol='range'}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Notifying assignor about the new Assignment(partitions=[KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11])
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerRebalanceListenerInvoker - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Adding newly assigned partitions: KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-3 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-2 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-1 to the committed offset FetchPosition{offset=2, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-0 to the committed offset FetchPosition{offset=2, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-11 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-10 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-9 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-8 to the committed offset FetchPosition{offset=15, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-7 to the committed offset FetchPosition{offset=18, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-6 to the committed offset FetchPosition{offset=12, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-5 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-4 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:44:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerRebalanceListenerInvoker - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Revoke previously assigned partitions KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Member consumer-mail-grp-01-1-71fe1d90-ee21-42c6-a283-9a8780e5f12b sending LeaveGroup request to coordinator 192.168.99.223:19092 (id: 2147483647 rack: null) due to the consumer unsubscribed from all topics
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Resetting generation and member id due to: consumer pro-actively leaving the group
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Request joining group due to: consumer pro-actively leaving the group
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Unsubscribed all topics or patterns and assigned partitions
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Resetting generation and member id due to: consumer pro-actively leaving the group
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Request joining group due to: consumer pro-actively leaving the group
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Metrics scheduler closed
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.telemetry.internals.ClientTelemetryReporter
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Metrics reporters closed
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.utils.AppInfoParser - App info kafka.consumer for consumer-mail-grp-01-1 unregistered
+2024-09-13 14:45:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:45:19 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 12804 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:45:19 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:45:20 [main] INFO  org.apache.kafka.clients.consumer.ConsumerConfig - ConsumerConfig values: 
+	allow.auto.create.topics = true
+	auto.commit.interval.ms = 5000
+	auto.include.jmx.reporter = true
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.99.223:19092]
+	check.crcs = true
+	client.dns.lookup = use_all_dns_ips
+	client.id = consumer-mail-grp-01-1
+	client.rack = 
+	connections.max.idle.ms = 540000
+	default.api.timeout.ms = 60000
+	enable.auto.commit = false
+	enable.metrics.push = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = mail-grp-01
+	group.instance.id = null
+	group.protocol = classic
+	group.remote.assignor = null
+	heartbeat.interval.ms = 3000
+	interceptor.classes = []
+	internal.leave.group.on.close = true
+	internal.throw.on.fetch.stable.offset.unsupported = false
+	isolation.level = read_uncommitted
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor, class org.apache.kafka.clients.consumer.CooperativeStickyAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retry.backoff.max.ms = 1000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	session.timeout.ms = 45000
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class io.confluent.kafka.serializers.KafkaAvroDeserializer
+
+2024-09-13 14:45:20 [main] INFO  org.apache.kafka.common.telemetry.internals.KafkaMetricsCollector - initializing Kafka metrics collector
+2024-09-13 14:45:20 [main] INFO  io.confluent.kafka.serializers.KafkaAvroDeserializerConfig - KafkaAvroDeserializerConfig values: 
+	auto.register.schemas = true
+	avro.reflection.allow.null = false
+	avro.use.logical.type.converters = false
+	basic.auth.credentials.source = URL
+	basic.auth.user.info = [hidden]
+	bearer.auth.credentials.source = STATIC_TOKEN
+	bearer.auth.token = [hidden]
+	context.name.strategy = class io.confluent.kafka.serializers.context.NullContextNameStrategy
+	id.compatibility.strict = true
+	key.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+	latest.compatibility.strict = true
+	max.schemas.per.subject = 1000
+	normalize.schemas = false
+	proxy.host = 
+	proxy.port = -1
+	schema.reflection = false
+	schema.registry.basic.auth.user.info = [hidden]
+	schema.registry.ssl.cipher.suites = null
+	schema.registry.ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	schema.registry.ssl.endpoint.identification.algorithm = https
+	schema.registry.ssl.engine.factory.class = null
+	schema.registry.ssl.key.password = null
+	schema.registry.ssl.keymanager.algorithm = SunX509
+	schema.registry.ssl.keystore.certificate.chain = null
+	schema.registry.ssl.keystore.key = null
+	schema.registry.ssl.keystore.location = null
+	schema.registry.ssl.keystore.password = null
+	schema.registry.ssl.keystore.type = JKS
+	schema.registry.ssl.protocol = TLSv1.3
+	schema.registry.ssl.provider = null
+	schema.registry.ssl.secure.random.implementation = null
+	schema.registry.ssl.trustmanager.algorithm = PKIX
+	schema.registry.ssl.truststore.certificates = null
+	schema.registry.ssl.truststore.location = null
+	schema.registry.ssl.truststore.password = null
+	schema.registry.ssl.truststore.type = JKS
+	schema.registry.url = [http://192.168.99.223:18081]
+	specific.avro.reader = true
+	use.latest.version = false
+	use.schema.id = -1
+	value.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+
+2024-09-13 14:45:20 [main] INFO  org.apache.kafka.clients.consumer.ConsumerConfig - These configurations '[schema.registry.url, specific.avro.reader]' were supplied but are not used yet.
+2024-09-13 14:45:20 [main] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka version: 3.7.1
+2024-09-13 14:45:20 [main] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka commitId: e2494e6ffb89f828
+2024-09-13 14:45:20 [main] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1726218920714
+2024-09-13 14:45:20 [main] INFO  org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Subscribed to topic(s): KHAN-OTP-TOPIC
+2024-09-13 14:45:20 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.78 seconds (process running for 2.799)
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.Metadata - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Cluster ID: redpanda.78ad51b7-ec9a-4227-a682-ebeac14a75c6
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Discovered group coordinator 192.168.99.223:19092 (id: 2147483647 rack: null)
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] (Re-)joining group
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Request joining group due to: need to re-join with the given member-id: consumer-mail-grp-01-1-1853daff-412a-425b-9447-b20386f27005
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] (Re-)joining group
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Successfully joined group with generation Generation{generationId=67, memberId='consumer-mail-grp-01-1-1853daff-412a-425b-9447-b20386f27005', protocol='range'}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Finished assignment for group at generation 67: {consumer-mail-grp-01-1-1853daff-412a-425b-9447-b20386f27005=Assignment(partitions=[KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11])}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Successfully synced group in generation Generation{generationId=67, memberId='consumer-mail-grp-01-1-1853daff-412a-425b-9447-b20386f27005', protocol='range'}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Notifying assignor about the new Assignment(partitions=[KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11])
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerRebalanceListenerInvoker - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Adding newly assigned partitions: KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-3 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-2 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-1 to the committed offset FetchPosition{offset=2, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-0 to the committed offset FetchPosition{offset=2, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-11 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-10 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-9 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-8 to the committed offset FetchPosition{offset=15, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-7 to the committed offset FetchPosition{offset=18, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-6 to the committed offset FetchPosition{offset=12, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-5 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-4 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:45:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:45:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerRebalanceListenerInvoker - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Revoke previously assigned partitions KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11
+2024-09-13 14:45:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:45:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Member consumer-mail-grp-01-1-1853daff-412a-425b-9447-b20386f27005 sending LeaveGroup request to coordinator 192.168.99.223:19092 (id: 2147483647 rack: null) due to the consumer unsubscribed from all topics
+2024-09-13 14:45:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Resetting generation and member id due to: consumer pro-actively leaving the group
+2024-09-13 14:45:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Request joining group due to: consumer pro-actively leaving the group
+2024-09-13 14:45:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Unsubscribed all topics or patterns and assigned partitions
+2024-09-13 14:45:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Resetting generation and member id due to: consumer pro-actively leaving the group
+2024-09-13 14:45:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Request joining group due to: consumer pro-actively leaving the group
+2024-09-13 14:45:49 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Metrics scheduler closed
+2024-09-13 14:45:49 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2024-09-13 14:45:49 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.telemetry.internals.ClientTelemetryReporter
+2024-09-13 14:45:49 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Metrics reporters closed
+2024-09-13 14:45:49 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.utils.AppInfoParser - App info kafka.consumer for consumer-mail-grp-01-1 unregistered
+2024-09-13 14:45:49 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:45:52 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 5440 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:45:52 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:45:53 [main] INFO  org.apache.kafka.clients.consumer.ConsumerConfig - ConsumerConfig values: 
+	allow.auto.create.topics = true
+	auto.commit.interval.ms = 5000
+	auto.include.jmx.reporter = true
+	auto.offset.reset = latest
+	bootstrap.servers = [192.168.99.223:19092]
+	check.crcs = true
+	client.dns.lookup = use_all_dns_ips
+	client.id = consumer-mail-grp-01-1
+	client.rack = 
+	connections.max.idle.ms = 540000
+	default.api.timeout.ms = 60000
+	enable.auto.commit = false
+	enable.metrics.push = true
+	exclude.internal.topics = true
+	fetch.max.bytes = 52428800
+	fetch.max.wait.ms = 500
+	fetch.min.bytes = 1
+	group.id = mail-grp-01
+	group.instance.id = null
+	group.protocol = classic
+	group.remote.assignor = null
+	heartbeat.interval.ms = 3000
+	interceptor.classes = []
+	internal.leave.group.on.close = true
+	internal.throw.on.fetch.stable.offset.unsupported = false
+	isolation.level = read_uncommitted
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	max.partition.fetch.bytes = 1048576
+	max.poll.interval.ms = 300000
+	max.poll.records = 500
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partition.assignment.strategy = [class org.apache.kafka.clients.consumer.RangeAssignor, class org.apache.kafka.clients.consumer.CooperativeStickyAssignor]
+	receive.buffer.bytes = 65536
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retry.backoff.max.ms = 1000
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.connect.timeout.ms = null
+	sasl.login.read.timeout.ms = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.login.retry.backoff.max.ms = 10000
+	sasl.login.retry.backoff.ms = 100
+	sasl.mechanism = GSSAPI
+	sasl.oauthbearer.clock.skew.seconds = 30
+	sasl.oauthbearer.expected.audience = null
+	sasl.oauthbearer.expected.issuer = null
+	sasl.oauthbearer.jwks.endpoint.refresh.ms = 3600000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.max.ms = 10000
+	sasl.oauthbearer.jwks.endpoint.retry.backoff.ms = 100
+	sasl.oauthbearer.jwks.endpoint.url = null
+	sasl.oauthbearer.scope.claim.name = scope
+	sasl.oauthbearer.sub.claim.name = sub
+	sasl.oauthbearer.token.endpoint.url = null
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	session.timeout.ms = 45000
+	socket.connection.setup.timeout.max.ms = 30000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	value.deserializer = class io.confluent.kafka.serializers.KafkaAvroDeserializer
+
+2024-09-13 14:45:53 [main] INFO  org.apache.kafka.common.telemetry.internals.KafkaMetricsCollector - initializing Kafka metrics collector
+2024-09-13 14:45:53 [main] INFO  io.confluent.kafka.serializers.KafkaAvroDeserializerConfig - KafkaAvroDeserializerConfig values: 
+	auto.register.schemas = true
+	avro.reflection.allow.null = false
+	avro.use.logical.type.converters = false
+	basic.auth.credentials.source = URL
+	basic.auth.user.info = [hidden]
+	bearer.auth.credentials.source = STATIC_TOKEN
+	bearer.auth.token = [hidden]
+	context.name.strategy = class io.confluent.kafka.serializers.context.NullContextNameStrategy
+	id.compatibility.strict = true
+	key.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+	latest.compatibility.strict = true
+	max.schemas.per.subject = 1000
+	normalize.schemas = false
+	proxy.host = 
+	proxy.port = -1
+	schema.reflection = false
+	schema.registry.basic.auth.user.info = [hidden]
+	schema.registry.ssl.cipher.suites = null
+	schema.registry.ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	schema.registry.ssl.endpoint.identification.algorithm = https
+	schema.registry.ssl.engine.factory.class = null
+	schema.registry.ssl.key.password = null
+	schema.registry.ssl.keymanager.algorithm = SunX509
+	schema.registry.ssl.keystore.certificate.chain = null
+	schema.registry.ssl.keystore.key = null
+	schema.registry.ssl.keystore.location = null
+	schema.registry.ssl.keystore.password = null
+	schema.registry.ssl.keystore.type = JKS
+	schema.registry.ssl.protocol = TLSv1.3
+	schema.registry.ssl.provider = null
+	schema.registry.ssl.secure.random.implementation = null
+	schema.registry.ssl.trustmanager.algorithm = PKIX
+	schema.registry.ssl.truststore.certificates = null
+	schema.registry.ssl.truststore.location = null
+	schema.registry.ssl.truststore.password = null
+	schema.registry.ssl.truststore.type = JKS
+	schema.registry.url = [http://192.168.99.223:18081]
+	specific.avro.reader = true
+	use.latest.version = false
+	use.schema.id = -1
+	value.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+
+2024-09-13 14:45:53 [main] INFO  org.apache.kafka.clients.consumer.ConsumerConfig - These configurations '[schema.registry.url, specific.avro.reader]' were supplied but are not used yet.
+2024-09-13 14:45:53 [main] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka version: 3.7.1
+2024-09-13 14:45:53 [main] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka commitId: e2494e6ffb89f828
+2024-09-13 14:45:53 [main] INFO  org.apache.kafka.common.utils.AppInfoParser - Kafka startTimeMs: 1726218953972
+2024-09-13 14:45:53 [main] INFO  org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Subscribed to topic(s): KHAN-OTP-TOPIC
+2024-09-13 14:45:54 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.78 seconds (process running for 2.819)
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.Metadata - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Cluster ID: redpanda.78ad51b7-ec9a-4227-a682-ebeac14a75c6
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Discovered group coordinator 192.168.99.223:19092 (id: 2147483647 rack: null)
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] (Re-)joining group
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Request joining group due to: need to re-join with the given member-id: consumer-mail-grp-01-1-0346dbfc-9886-47d9-98e8-4d6ef4b8568c
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] (Re-)joining group
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Successfully joined group with generation Generation{generationId=69, memberId='consumer-mail-grp-01-1-0346dbfc-9886-47d9-98e8-4d6ef4b8568c', protocol='range'}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Finished assignment for group at generation 69: {consumer-mail-grp-01-1-0346dbfc-9886-47d9-98e8-4d6ef4b8568c=Assignment(partitions=[KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11])}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Successfully synced group in generation Generation{generationId=69, memberId='consumer-mail-grp-01-1-0346dbfc-9886-47d9-98e8-4d6ef4b8568c', protocol='range'}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Notifying assignor about the new Assignment(partitions=[KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11])
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerRebalanceListenerInvoker - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Adding newly assigned partitions: KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-3 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-2 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-1 to the committed offset FetchPosition{offset=2, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-0 to the committed offset FetchPosition{offset=2, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-11 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-10 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-9 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:39092 (id: 1 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-8 to the committed offset FetchPosition{offset=15, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-7 to the committed offset FetchPosition{offset=18, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-6 to the committed offset FetchPosition{offset=12, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-5 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:29092 (id: 2 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerUtils - Setting offset for partition KHAN-OTP-TOPIC-4 to the committed offset FetchPosition{offset=0, offsetEpoch=Optional.empty, currentLeader=LeaderAndEpoch{leader=Optional[192.168.99.223:19092 (id: 0 rack: null)], epoch=absent}}
+2024-09-13 14:45:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:47:36 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerRebalanceListenerInvoker - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Revoke previously assigned partitions KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11
+2024-09-13 14:47:36 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:47:36 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Member consumer-mail-grp-01-1-0346dbfc-9886-47d9-98e8-4d6ef4b8568c sending LeaveGroup request to coordinator 192.168.99.223:19092 (id: 2147483647 rack: null) due to the consumer unsubscribed from all topics
+2024-09-13 14:47:36 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Resetting generation and member id due to: consumer pro-actively leaving the group
+2024-09-13 14:47:36 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Request joining group due to: consumer pro-actively leaving the group
+2024-09-13 14:47:36 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.LegacyKafkaConsumer - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Unsubscribed all topics or patterns and assigned partitions
+2024-09-13 14:47:36 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Resetting generation and member id due to: consumer pro-actively leaving the group
+2024-09-13 14:47:36 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.clients.consumer.internals.ConsumerCoordinator - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Request joining group due to: consumer pro-actively leaving the group
+2024-09-13 14:47:37 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Metrics scheduler closed
+2024-09-13 14:47:37 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2024-09-13 14:47:37 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Closing reporter org.apache.kafka.common.telemetry.internals.ClientTelemetryReporter
+2024-09-13 14:47:37 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.metrics.Metrics - Metrics reporters closed
+2024-09-13 14:47:37 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.apache.kafka.common.utils.AppInfoParser - App info kafka.consumer for consumer-mail-grp-01-1 unregistered
+2024-09-13 14:47:37 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:47:41 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 19836 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:47:41 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:47:42 [main] INFO  io.confluent.kafka.serializers.KafkaAvroDeserializerConfig - KafkaAvroDeserializerConfig values: 
+	auto.register.schemas = true
+	avro.reflection.allow.null = false
+	avro.use.logical.type.converters = false
+	basic.auth.credentials.source = URL
+	basic.auth.user.info = [hidden]
+	bearer.auth.credentials.source = STATIC_TOKEN
+	bearer.auth.token = [hidden]
+	context.name.strategy = class io.confluent.kafka.serializers.context.NullContextNameStrategy
+	id.compatibility.strict = true
+	key.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+	latest.compatibility.strict = true
+	max.schemas.per.subject = 1000
+	normalize.schemas = false
+	proxy.host = 
+	proxy.port = -1
+	schema.reflection = false
+	schema.registry.basic.auth.user.info = [hidden]
+	schema.registry.ssl.cipher.suites = null
+	schema.registry.ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	schema.registry.ssl.endpoint.identification.algorithm = https
+	schema.registry.ssl.engine.factory.class = null
+	schema.registry.ssl.key.password = null
+	schema.registry.ssl.keymanager.algorithm = SunX509
+	schema.registry.ssl.keystore.certificate.chain = null
+	schema.registry.ssl.keystore.key = null
+	schema.registry.ssl.keystore.location = null
+	schema.registry.ssl.keystore.password = null
+	schema.registry.ssl.keystore.type = JKS
+	schema.registry.ssl.protocol = TLSv1.3
+	schema.registry.ssl.provider = null
+	schema.registry.ssl.secure.random.implementation = null
+	schema.registry.ssl.trustmanager.algorithm = PKIX
+	schema.registry.ssl.truststore.certificates = null
+	schema.registry.ssl.truststore.location = null
+	schema.registry.ssl.truststore.password = null
+	schema.registry.ssl.truststore.type = JKS
+	schema.registry.url = [http://192.168.99.223:18081]
+	specific.avro.reader = true
+	use.latest.version = false
+	use.schema.id = -1
+	value.subject.name.strategy = class io.confluent.kafka.serializers.subject.TopicNameStrategy
+
+2024-09-13 14:47:42 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.686 seconds (process running for 2.675)
+2024-09-13 14:47:42 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:48:02 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:48:03 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:48:06 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 4596 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:48:06 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:48:07 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.885 seconds (process running for 2.906)
+2024-09-13 14:48:08 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:49:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:49:22 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:49:25 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 5832 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:49:25 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:49:27 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.737 seconds (process running for 2.743)
+2024-09-13 14:49:27 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:50:50 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:50:51 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:50:55 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 2468 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:50:55 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:50:56 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.879 seconds (process running for 2.929)
+2024-09-13 14:50:57 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:52:38 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 14:52:39 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-13 14:52:42 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 15556 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-13 14:52:42 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-13 14:52:43 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 2.031 seconds (process running for 3.099)
+2024-09-13 14:52:44 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 15:25:25 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-13 15:25:26 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-19 15:15:38 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 8196 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-19 15:15:38 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-19 15:15:40 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 2.692 seconds (process running for 4.063)
+2024-09-19 15:15:41 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-19 15:20:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.osc.mailservice.service.MailService - Email Send Successfully to : khanshadab1515@gmail.com
+2024-09-19 15:47:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.osc.mailservice.service.MailService - Email Send Successfully to : khanshadab1515@gmail.com
+2024-09-19 16:47:23 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.apache.kafka.clients.Metadata - [Consumer clientId=consumer-mail-grp-01-1, groupId=mail-grp-01] Topic authorization failed for topics [KHAN-OTP-TOPIC]
+2024-09-19 16:47:24 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.springframework.kafka.listener.KafkaMessageListenerContainer - Authentication/Authorization Exception and no authExceptionRetryInterval set
+org.apache.kafka.common.errors.TopicAuthorizationException: Not authorized to access topics: [KHAN-OTP-TOPIC]
+2024-09-19 16:47:24 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] ERROR org.springframework.kafka.listener.KafkaMessageListenerContainer - Fatal consumer exception; stopping container
+2024-09-19 16:47:24 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-19 16:47:25 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-23 13:36:57 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 9076 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-23 13:36:57 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-23 13:36:59 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.799 seconds (process running for 2.958)
+2024-09-23 13:37:02 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-23 14:43:16 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-23 14:43:16 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-23 14:43:19 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-23 16:33:58 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-23 16:33:58 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-23 16:34:02 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-23 18:56:57 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-23 18:56:57 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-24 11:08:00 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 3840 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-24 11:08:00 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-24 11:08:03 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 4.783 seconds (process running for 7.596)
+2024-09-24 11:08:07 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 11:28:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 11:28:21 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 11:28:25 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 11:33:20 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.osc.mailservice.service.MailService - Email Send Successfully to : bhavikntamore113@gmail.com
+2024-09-24 11:40:09 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.osc.mailservice.service.MailService - Email Send Successfully to : bhavikntamore113@gmail.com
+2024-09-24 11:56:06 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 11:56:06 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 11:56:09 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 11:59:36 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 11:59:37 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-09-24 11:59:41 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 10452 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-09-24 11:59:41 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-24 11:59:43 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.891 seconds (process running for 3.242)
+2024-09-24 11:59:46 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 14:48:06 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 14:48:06 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 14:48:09 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 16:51:17 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 16:51:17 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 16:51:20 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 17:45:31 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 17:45:31 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 17:45:34 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 18:50:11 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-09-24 18:50:12 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-10-22 12:41:29 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 2768 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-10-22 12:41:29 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-10-22 12:41:30 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 1.782 seconds (process running for 2.815)
+2024-10-22 12:41:31 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-22 12:42:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.osc.mailservice.service.MailService - Email Send Successfully to : khanshadab.softdev@gmail.com
+2024-10-22 15:01:50 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-22 15:01:51 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-22 15:01:51 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-22 15:27:27 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-22 15:27:28 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-10-24 14:42:16 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 18984 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-10-24 14:42:16 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-10-24 14:42:18 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 2.113 seconds (process running for 3.28)
+2024-10-24 14:42:18 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-24 14:51:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-24 14:51:55 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-10-24 14:52:53 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 6388 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-10-24 14:52:54 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-10-24 14:52:56 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 4.049 seconds (process running for 6.206)
+2024-10-24 14:52:57 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-24 17:16:44 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-24 17:16:44 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-24 17:16:45 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-24 17:20:25 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.osc.mailservice.service.MailService - Email Send Successfully to : kirtan.c@orosoft.com
+2024-10-24 17:24:28 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.osc.mailservice.service.MailService - Email Send Successfully to : kirtan1chauhan@gmail.com
+2024-10-24 17:30:25 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.osc.mailservice.service.MailService - Email Send Successfully to : kirtan1chauhan@gmail.com
+2024-10-24 17:36:05 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.osc.mailservice.service.MailService - Email Send Successfully to : kirtan1chauhan@gmail.com
+2024-10-24 17:55:07 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-24 17:55:08 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-10-28 16:22:46 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 1480 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-10-28 16:22:46 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-10-28 16:22:48 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 3.013 seconds (process running for 5.335)
+2024-10-28 16:22:48 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-28 16:26:15 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-28 16:26:16 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-10-29 11:35:06 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 14640 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-10-29 11:35:06 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-10-29 11:35:08 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 2.439 seconds (process running for 4.027)
+2024-10-29 11:35:08 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-29 11:39:53 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.osc.mailservice.service.MailService - Email Send Successfully to : khanshadab1515@gmail.com
+2024-10-29 11:42:43 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-29 11:42:44 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-10-29 12:08:39 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 19604 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-10-29 12:08:39 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-10-29 12:08:41 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 2.165 seconds (process running for 3.47)
+2024-10-29 12:08:41 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-29 12:14:07 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-29 12:14:07 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-10-31 12:21:29 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 12016 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-10-31 12:21:29 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-10-31 12:21:31 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 3.016 seconds (process running for 4.74)
+2024-10-31 12:21:32 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-31 14:25:50 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-31 14:25:50 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-31 14:25:51 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-31 15:43:44 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-10-31 15:43:45 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped
+2024-11-04 10:25:03 [main] INFO  com.osc.mailservice.MailServiceApplication - Starting MailServiceApplication using Java 22.0.1 with PID 13152 (C:\Users\Shadab Khan\Projects\OSC\MailService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-11-04 10:25:03 [main] INFO  com.osc.mailservice.MailServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-04 10:25:06 [main] INFO  com.osc.mailservice.MailServiceApplication - Started MailServiceApplication in 3.352 seconds (process running for 4.945)
+2024-11-04 10:25:06 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 10:44:53 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 10:44:53 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 10:44:54 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 11:03:06 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 11:03:06 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 11:03:06 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 11:11:42 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 11:11:42 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 11:11:43 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 11:48:14 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions lost: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 11:48:14 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 11:48:14 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions assigned: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 12:28:57 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  com.osc.mailservice.service.MailService - Email Send Successfully to : khanshadab.softdev@gmail.com
+2024-11-04 12:58:53 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: partitions revoked: [KHAN-OTP-TOPIC-0, KHAN-OTP-TOPIC-1, KHAN-OTP-TOPIC-2, KHAN-OTP-TOPIC-3, KHAN-OTP-TOPIC-4, KHAN-OTP-TOPIC-5, KHAN-OTP-TOPIC-6, KHAN-OTP-TOPIC-7, KHAN-OTP-TOPIC-8, KHAN-OTP-TOPIC-9, KHAN-OTP-TOPIC-10, KHAN-OTP-TOPIC-11]
+2024-11-04 12:58:53 [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] INFO  org.springframework.kafka.listener.KafkaMessageListenerContainer - mail-grp-01: Consumer stopped

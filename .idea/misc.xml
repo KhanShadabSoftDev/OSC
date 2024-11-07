@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.PostMapping" />
+      <item index="1" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.RequestMapping" />
+    </list>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Avros/pom.xml" />
+        <option value="$PROJECT_DIR$/Proto/pom.xml" />
+        <option value="$PROJECT_DIR$/MailService/pom.xml" />
+        <option value="$PROJECT_DIR$/UserService/pom.xml" />
+        <option value="$PROJECT_DIR$/UserDataService/pom.xml" />
+        <option value="$PROJECT_DIR$/SessionDataService/pom.xml" />
+        <option value="$PROJECT_DIR$/ProductDataService/pom.xml" />
+        <option value="$PROJECT_DIR$/RecentlyViewedService/pom.xml" />
+        <option value="$PROJECT_DIR$/DashboardService/pom.xml" />
+        <option value="$PROJECT_DIR$/CartDataService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

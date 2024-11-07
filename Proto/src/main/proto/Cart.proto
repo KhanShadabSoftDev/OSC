@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+import "google/protobuf/empty.proto";
+package  com.general.cartproto;
+
+option java_multiple_files = true;
+option java_package = "com.grpc.cart";
+
+message CartDetailsRequest {
+  string userId = 1;
+}
+message CartDetailsResponse {
+  repeated ProductDetail cartProducts = 1;
+}
+message ProductDetail {
+  string productId = 1;
+  int32 quantity = 2;
+}
+message ProductQuantityRequest {
+  string userId = 1;
+  string productId = 2;
+  bool isIncrease = 3;
+
+}
+
+message ProductRemoveRequest{
+  string userId = 1;
+  string productId = 2;
+}
+
+message SyncCartRequest {
+  string userId = 1;
+}
+
+service CartService {
+  rpc fetchCartDetails(CartDetailsRequest) returns (CartDetailsResponse);
+  rpc updateProductQuantity(ProductQuantityRequest) returns (google.protobuf.Empty);
+  rpc removeProduct(ProductRemoveRequest) returns (google.protobuf.Empty);
+  rpc syncCartFromKafka(SyncCartRequest) returns (google.protobuf.Empty);
+}
+

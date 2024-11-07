@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="WARN">
+    <Appenders>
+        <!-- Console appender to output logs to the console -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %-80logger{36} - %msg%n"/>
+        </Console>
+
+        <!-- Rolling file appender for regular logs -->
+        <RollingFile name="FileAppender" fileName="C:/Users/Shadab Khan/Projects/OSC/logs/MailService.log"
+                     filePattern="C:/Users/Shadab Khan/Projects/OSC/logs/MailService-%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="30"/>
+        </RollingFile>
+
+        <!-- Rolling file appender for error logs with error level filtering -->
+        <RollingFile name="ErrorFileAppender" fileName="C:/Users/Shadab Khan/Projects/OSC/logs/MailService-Error.log"
+                     filePattern="C:/Users/Shadab Khan/Projects/OSC/logs/MailService-Error-%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
+            <Filters><ThresholdFilter level="ERROR" onMatch="ACCEPT" onMismatch="DENY"/></Filters>
+            <Policies><SizeBasedTriggeringPolicy size="10MB"/></Policies>
+            <DefaultRolloverStrategy max="30"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileAppender"/>
+            <AppenderRef ref="ErrorFileAppender"/>
+        </Root>
+    </Loggers>
+</configuration>

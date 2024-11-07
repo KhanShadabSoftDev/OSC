@@ -1,0 +1,897 @@
+2024-10-31 12:27:34 [http-nio-8000-exec-6] INFO  com.osc.dashboardservice.service.ProductDetailsService - Product details fetched for ID: F07
+2024-10-31 12:27:34 [http-nio-8000-exec-6] INFO  com.osc.dashboardservice.service.ProductDetailsService - Product ID F07 added to recently viewed for user ID user9326591640
+2024-10-31 12:28:39 [http-nio-8000-exec-7] INFO  com.osc.dashboardservice.service.FilterProductService - Products filtered with criteria: HL for category ID: F. Resulting products: [productId: "F11"
+categoryId: "F"
+name: "JBL Flip 4"
+productDetails: "WIRELESS BLUETOOTH STREAMING- Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound.12 HOURS OF PLAYTIME-Built-in 3000mAh rechargeable Li-ion battery supports up to 12 hours of playtime."
+price: 6999.0
+image: "\\\\192.168.99.162Shared_folderOSCF11.jpg"
+, productId: "F12"
+categoryId: "F"
+name: "Philips Audio MMS2625B 32W"
+productDetails: "Bluetooth version 4.2"
+price: 3379.0
+image: "\\\\192.168.99.162Shared_folderOSCF12.jpg"
+, productId: "F02"
+categoryId: "F"
+name: "boAt Stone 1000"
+productDetails: "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth with powerful 3000mAh battery"
+price: 2499.0
+image: "\\\\192.168.99.162Shared_folderOSCF02.jpg"
+, productId: "F08"
+categoryId: "F"
+name: "JBL Go 2"
+productDetails: "5 Hours of Playtime under optimum audio settings. Wireless Bluetooth Streaming. IPX7 Waterproof design, Battery Type Lithium-ion polymer, Charging time  hr"
+price: 1999.0
+image: "\\\\192.168.99.162Shared_folderOSCF08.jpg"
+, productId: "F01"
+categoryId: "F"
+name: "boAt Stone 620"
+productDetails: "Get ready to be enthralled by the 12W RMS stereo sound on Stone 620 portable wireless speaker. It supports TWS functionality, meaning you can connect two Stone 620s together and play music on both of them simultaneously for twice the impact. Charging time- 3h."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF01.jpg"
+, productId: "F06"
+categoryId: "F"
+name: "boAt Stone 650"
+productDetails: "Its powerful 1800mAh battery offers a playback time of up to 7 hours, Charging Time 3.5 hours.Stone 650 is IPX5 rated offering protection against water and dust."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF06.jpg"
+, productId: "F04"
+categoryId: "F"
+name: "Blaupunkt SBA200"
+productDetails: "Bluetooth Version 5.0"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF04.jpg"
+, productId: "F09"
+categoryId: "F"
+name: "boAt Stone 250"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 250 portable wireless speaker. Playback- The speaker offers up to a total of 8 hours of playtime per single charge via Type C interface at 60% volume level"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF09.jpg"
+, productId: "F03"
+categoryId: "F"
+name: "boAt Stone 180"
+productDetails: "Stone 180 comes equipped with 1.75 inch Dynamic Drivers for powerful immersive sound. Its power packed 800mAh battery ensures extended indulgence in musical bliss with up to 10 hours of play time, Charging Time - 1.5 Hours."
+price: 1299.0
+image: "\\\\192.168.99.162Shared_folderOSCF03.jpg"
+, productId: "F10"
+categoryId: "F"
+name: "Mivi Roam 2"
+productDetails: "Small Frame. Big Sound- Roam 2 wireless speaker is designed to deliver loud and clear music by pumping out sharp trebles, detailed mids and punchy bass. Now enjoy more richer & immersive notes to fill your room with music. Heavy Bass - Small in size"
+price: 1099.0
+image: "\\\\192.168.99.162Shared_folderOSCF10.jpg"
+, productId: "F05"
+categoryId: "F"
+name: "boAt Stone 135"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 135 portable wireless speakers. True Wireless- It supports TWS functionality, meaning you can connect two Stone 135s together and simultaneously play music on both of them for twice the impact."
+price: 799.0
+image: "\\\\192.168.99.162Shared_folderOSCF05.jpg"
+, productId: "F07"
+categoryId: "F"
+name: "Zebronics ZEB-COUNTY"
+productDetails: "The speaker comes with a call function along with a built-in fm radio too. Charging time 2.5H. Playback time approx. 10 hrs. 1 Year warranty-from the date of purchase"
+price: 549.0
+image: "\\\\192.168.99.162Shared_folderOSCF07.jpg"
+]
+2024-10-31 12:28:46 [http-nio-8000-exec-9] INFO  com.osc.dashboardservice.service.FilterProductService - Products filtered with criteria: P for category ID: F. Resulting products: [productId: "F07"
+categoryId: "F"
+name: "Zebronics ZEB-COUNTY"
+productDetails: "The speaker comes with a call function along with a built-in fm radio too. Charging time 2.5H. Playback time approx. 10 hrs. 1 Year warranty-from the date of purchase"
+price: 549.0
+image: "\\\\192.168.99.162Shared_folderOSCF07.jpg"
+, productId: "F01"
+categoryId: "F"
+name: "boAt Stone 620"
+productDetails: "Get ready to be enthralled by the 12W RMS stereo sound on Stone 620 portable wireless speaker. It supports TWS functionality, meaning you can connect two Stone 620s together and play music on both of them simultaneously for twice the impact. Charging time- 3h."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF01.jpg"
+, productId: "F02"
+categoryId: "F"
+name: "boAt Stone 1000"
+productDetails: "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth with powerful 3000mAh battery"
+price: 2499.0
+image: "\\\\192.168.99.162Shared_folderOSCF02.jpg"
+, productId: "F03"
+categoryId: "F"
+name: "boAt Stone 180"
+productDetails: "Stone 180 comes equipped with 1.75 inch Dynamic Drivers for powerful immersive sound. Its power packed 800mAh battery ensures extended indulgence in musical bliss with up to 10 hours of play time, Charging Time - 1.5 Hours."
+price: 1299.0
+image: "\\\\192.168.99.162Shared_folderOSCF03.jpg"
+, productId: "F04"
+categoryId: "F"
+name: "Blaupunkt SBA200"
+productDetails: "Bluetooth Version 5.0"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF04.jpg"
+, productId: "F05"
+categoryId: "F"
+name: "boAt Stone 135"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 135 portable wireless speakers. True Wireless- It supports TWS functionality, meaning you can connect two Stone 135s together and simultaneously play music on both of them for twice the impact."
+price: 799.0
+image: "\\\\192.168.99.162Shared_folderOSCF05.jpg"
+, productId: "F06"
+categoryId: "F"
+name: "boAt Stone 650"
+productDetails: "Its powerful 1800mAh battery offers a playback time of up to 7 hours, Charging Time 3.5 hours.Stone 650 is IPX5 rated offering protection against water and dust."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF06.jpg"
+, productId: "F08"
+categoryId: "F"
+name: "JBL Go 2"
+productDetails: "5 Hours of Playtime under optimum audio settings. Wireless Bluetooth Streaming. IPX7 Waterproof design, Battery Type Lithium-ion polymer, Charging time  hr"
+price: 1999.0
+image: "\\\\192.168.99.162Shared_folderOSCF08.jpg"
+, productId: "F09"
+categoryId: "F"
+name: "boAt Stone 250"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 250 portable wireless speaker. Playback- The speaker offers up to a total of 8 hours of playtime per single charge via Type C interface at 60% volume level"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF09.jpg"
+, productId: "F10"
+categoryId: "F"
+name: "Mivi Roam 2"
+productDetails: "Small Frame. Big Sound- Roam 2 wireless speaker is designed to deliver loud and clear music by pumping out sharp trebles, detailed mids and punchy bass. Now enjoy more richer & immersive notes to fill your room with music. Heavy Bass - Small in size"
+price: 1099.0
+image: "\\\\192.168.99.162Shared_folderOSCF10.jpg"
+, productId: "F11"
+categoryId: "F"
+name: "JBL Flip 4"
+productDetails: "WIRELESS BLUETOOTH STREAMING- Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound.12 HOURS OF PLAYTIME-Built-in 3000mAh rechargeable Li-ion battery supports up to 12 hours of playtime."
+price: 6999.0
+image: "\\\\192.168.99.162Shared_folderOSCF11.jpg"
+, productId: "F12"
+categoryId: "F"
+name: "Philips Audio MMS2625B 32W"
+productDetails: "Bluetooth version 4.2"
+price: 3379.0
+image: "\\\\192.168.99.162Shared_folderOSCF12.jpg"
+]
+2024-10-31 12:29:12 [http-nio-8000-exec-1] INFO  com.osc.dashboardservice.service.FilterProductService - Products filtered with criteria: NF for category ID: F. Resulting products: [productId: "F01"
+categoryId: "F"
+name: "boAt Stone 620"
+productDetails: "Get ready to be enthralled by the 12W RMS stereo sound on Stone 620 portable wireless speaker. It supports TWS functionality, meaning you can connect two Stone 620s together and play music on both of them simultaneously for twice the impact. Charging time- 3h."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF01.jpg"
+, productId: "F02"
+categoryId: "F"
+name: "boAt Stone 1000"
+productDetails: "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth with powerful 3000mAh battery"
+price: 2499.0
+image: "\\\\192.168.99.162Shared_folderOSCF02.jpg"
+, productId: "F03"
+categoryId: "F"
+name: "boAt Stone 180"
+productDetails: "Stone 180 comes equipped with 1.75 inch Dynamic Drivers for powerful immersive sound. Its power packed 800mAh battery ensures extended indulgence in musical bliss with up to 10 hours of play time, Charging Time - 1.5 Hours."
+price: 1299.0
+image: "\\\\192.168.99.162Shared_folderOSCF03.jpg"
+, productId: "F04"
+categoryId: "F"
+name: "Blaupunkt SBA200"
+productDetails: "Bluetooth Version 5.0"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF04.jpg"
+, productId: "F05"
+categoryId: "F"
+name: "boAt Stone 135"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 135 portable wireless speakers. True Wireless- It supports TWS functionality, meaning you can connect two Stone 135s together and simultaneously play music on both of them for twice the impact."
+price: 799.0
+image: "\\\\192.168.99.162Shared_folderOSCF05.jpg"
+, productId: "F06"
+categoryId: "F"
+name: "boAt Stone 650"
+productDetails: "Its powerful 1800mAh battery offers a playback time of up to 7 hours, Charging Time 3.5 hours.Stone 650 is IPX5 rated offering protection against water and dust."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF06.jpg"
+, productId: "F07"
+categoryId: "F"
+name: "Zebronics ZEB-COUNTY"
+productDetails: "The speaker comes with a call function along with a built-in fm radio too. Charging time 2.5H. Playback time approx. 10 hrs. 1 Year warranty-from the date of purchase"
+price: 549.0
+image: "\\\\192.168.99.162Shared_folderOSCF07.jpg"
+, productId: "F08"
+categoryId: "F"
+name: "JBL Go 2"
+productDetails: "5 Hours of Playtime under optimum audio settings. Wireless Bluetooth Streaming. IPX7 Waterproof design, Battery Type Lithium-ion polymer, Charging time  hr"
+price: 1999.0
+image: "\\\\192.168.99.162Shared_folderOSCF08.jpg"
+, productId: "F09"
+categoryId: "F"
+name: "boAt Stone 250"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 250 portable wireless speaker. Playback- The speaker offers up to a total of 8 hours of playtime per single charge via Type C interface at 60% volume level"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF09.jpg"
+, productId: "F10"
+categoryId: "F"
+name: "Mivi Roam 2"
+productDetails: "Small Frame. Big Sound- Roam 2 wireless speaker is designed to deliver loud and clear music by pumping out sharp trebles, detailed mids and punchy bass. Now enjoy more richer & immersive notes to fill your room with music. Heavy Bass - Small in size"
+price: 1099.0
+image: "\\\\192.168.99.162Shared_folderOSCF10.jpg"
+, productId: "F11"
+categoryId: "F"
+name: "JBL Flip 4"
+productDetails: "WIRELESS BLUETOOTH STREAMING- Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound.12 HOURS OF PLAYTIME-Built-in 3000mAh rechargeable Li-ion battery supports up to 12 hours of playtime."
+price: 6999.0
+image: "\\\\192.168.99.162Shared_folderOSCF11.jpg"
+, productId: "F12"
+categoryId: "F"
+name: "Philips Audio MMS2625B 32W"
+productDetails: "Bluetooth version 4.2"
+price: 3379.0
+image: "\\\\192.168.99.162Shared_folderOSCF12.jpg"
+]
+2024-10-31 12:29:14 [http-nio-8000-exec-3] INFO  com.osc.dashboardservice.service.FilterProductService - Products filtered with criteria: HL for category ID: F. Resulting products: [productId: "F11"
+categoryId: "F"
+name: "JBL Flip 4"
+productDetails: "WIRELESS BLUETOOTH STREAMING- Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound.12 HOURS OF PLAYTIME-Built-in 3000mAh rechargeable Li-ion battery supports up to 12 hours of playtime."
+price: 6999.0
+image: "\\\\192.168.99.162Shared_folderOSCF11.jpg"
+, productId: "F12"
+categoryId: "F"
+name: "Philips Audio MMS2625B 32W"
+productDetails: "Bluetooth version 4.2"
+price: 3379.0
+image: "\\\\192.168.99.162Shared_folderOSCF12.jpg"
+, productId: "F02"
+categoryId: "F"
+name: "boAt Stone 1000"
+productDetails: "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth with powerful 3000mAh battery"
+price: 2499.0
+image: "\\\\192.168.99.162Shared_folderOSCF02.jpg"
+, productId: "F08"
+categoryId: "F"
+name: "JBL Go 2"
+productDetails: "5 Hours of Playtime under optimum audio settings. Wireless Bluetooth Streaming. IPX7 Waterproof design, Battery Type Lithium-ion polymer, Charging time  hr"
+price: 1999.0
+image: "\\\\192.168.99.162Shared_folderOSCF08.jpg"
+, productId: "F01"
+categoryId: "F"
+name: "boAt Stone 620"
+productDetails: "Get ready to be enthralled by the 12W RMS stereo sound on Stone 620 portable wireless speaker. It supports TWS functionality, meaning you can connect two Stone 620s together and play music on both of them simultaneously for twice the impact. Charging time- 3h."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF01.jpg"
+, productId: "F06"
+categoryId: "F"
+name: "boAt Stone 650"
+productDetails: "Its powerful 1800mAh battery offers a playback time of up to 7 hours, Charging Time 3.5 hours.Stone 650 is IPX5 rated offering protection against water and dust."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF06.jpg"
+, productId: "F04"
+categoryId: "F"
+name: "Blaupunkt SBA200"
+productDetails: "Bluetooth Version 5.0"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF04.jpg"
+, productId: "F09"
+categoryId: "F"
+name: "boAt Stone 250"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 250 portable wireless speaker. Playback- The speaker offers up to a total of 8 hours of playtime per single charge via Type C interface at 60% volume level"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF09.jpg"
+, productId: "F03"
+categoryId: "F"
+name: "boAt Stone 180"
+productDetails: "Stone 180 comes equipped with 1.75 inch Dynamic Drivers for powerful immersive sound. Its power packed 800mAh battery ensures extended indulgence in musical bliss with up to 10 hours of play time, Charging Time - 1.5 Hours."
+price: 1299.0
+image: "\\\\192.168.99.162Shared_folderOSCF03.jpg"
+, productId: "F10"
+categoryId: "F"
+name: "Mivi Roam 2"
+productDetails: "Small Frame. Big Sound- Roam 2 wireless speaker is designed to deliver loud and clear music by pumping out sharp trebles, detailed mids and punchy bass. Now enjoy more richer & immersive notes to fill your room with music. Heavy Bass - Small in size"
+price: 1099.0
+image: "\\\\192.168.99.162Shared_folderOSCF10.jpg"
+, productId: "F05"
+categoryId: "F"
+name: "boAt Stone 135"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 135 portable wireless speakers. True Wireless- It supports TWS functionality, meaning you can connect two Stone 135s together and simultaneously play music on both of them for twice the impact."
+price: 799.0
+image: "\\\\192.168.99.162Shared_folderOSCF05.jpg"
+, productId: "F07"
+categoryId: "F"
+name: "Zebronics ZEB-COUNTY"
+productDetails: "The speaker comes with a call function along with a built-in fm radio too. Charging time 2.5H. Playback time approx. 10 hrs. 1 Year warranty-from the date of purchase"
+price: 549.0
+image: "\\\\192.168.99.162Shared_folderOSCF07.jpg"
+]
+2024-10-31 12:29:16 [http-nio-8000-exec-10] INFO  com.osc.dashboardservice.service.FilterProductService - Products filtered with criteria: NF for category ID: F. Resulting products: [productId: "F01"
+categoryId: "F"
+name: "boAt Stone 620"
+productDetails: "Get ready to be enthralled by the 12W RMS stereo sound on Stone 620 portable wireless speaker. It supports TWS functionality, meaning you can connect two Stone 620s together and play music on both of them simultaneously for twice the impact. Charging time- 3h."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF01.jpg"
+, productId: "F02"
+categoryId: "F"
+name: "boAt Stone 1000"
+productDetails: "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth with powerful 3000mAh battery"
+price: 2499.0
+image: "\\\\192.168.99.162Shared_folderOSCF02.jpg"
+, productId: "F03"
+categoryId: "F"
+name: "boAt Stone 180"
+productDetails: "Stone 180 comes equipped with 1.75 inch Dynamic Drivers for powerful immersive sound. Its power packed 800mAh battery ensures extended indulgence in musical bliss with up to 10 hours of play time, Charging Time - 1.5 Hours."
+price: 1299.0
+image: "\\\\192.168.99.162Shared_folderOSCF03.jpg"
+, productId: "F04"
+categoryId: "F"
+name: "Blaupunkt SBA200"
+productDetails: "Bluetooth Version 5.0"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF04.jpg"
+, productId: "F05"
+categoryId: "F"
+name: "boAt Stone 135"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 135 portable wireless speakers. True Wireless- It supports TWS functionality, meaning you can connect two Stone 135s together and simultaneously play music on both of them for twice the impact."
+price: 799.0
+image: "\\\\192.168.99.162Shared_folderOSCF05.jpg"
+, productId: "F06"
+categoryId: "F"
+name: "boAt Stone 650"
+productDetails: "Its powerful 1800mAh battery offers a playback time of up to 7 hours, Charging Time 3.5 hours.Stone 650 is IPX5 rated offering protection against water and dust."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF06.jpg"
+, productId: "F07"
+categoryId: "F"
+name: "Zebronics ZEB-COUNTY"
+productDetails: "The speaker comes with a call function along with a built-in fm radio too. Charging time 2.5H. Playback time approx. 10 hrs. 1 Year warranty-from the date of purchase"
+price: 549.0
+image: "\\\\192.168.99.162Shared_folderOSCF07.jpg"
+, productId: "F08"
+categoryId: "F"
+name: "JBL Go 2"
+productDetails: "5 Hours of Playtime under optimum audio settings. Wireless Bluetooth Streaming. IPX7 Waterproof design, Battery Type Lithium-ion polymer, Charging time  hr"
+price: 1999.0
+image: "\\\\192.168.99.162Shared_folderOSCF08.jpg"
+, productId: "F09"
+categoryId: "F"
+name: "boAt Stone 250"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 250 portable wireless speaker. Playback- The speaker offers up to a total of 8 hours of playtime per single charge via Type C interface at 60% volume level"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF09.jpg"
+, productId: "F10"
+categoryId: "F"
+name: "Mivi Roam 2"
+productDetails: "Small Frame. Big Sound- Roam 2 wireless speaker is designed to deliver loud and clear music by pumping out sharp trebles, detailed mids and punchy bass. Now enjoy more richer & immersive notes to fill your room with music. Heavy Bass - Small in size"
+price: 1099.0
+image: "\\\\192.168.99.162Shared_folderOSCF10.jpg"
+, productId: "F11"
+categoryId: "F"
+name: "JBL Flip 4"
+productDetails: "WIRELESS BLUETOOTH STREAMING- Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound.12 HOURS OF PLAYTIME-Built-in 3000mAh rechargeable Li-ion battery supports up to 12 hours of playtime."
+price: 6999.0
+image: "\\\\192.168.99.162Shared_folderOSCF11.jpg"
+, productId: "F12"
+categoryId: "F"
+name: "Philips Audio MMS2625B 32W"
+productDetails: "Bluetooth version 4.2"
+price: 3379.0
+image: "\\\\192.168.99.162Shared_folderOSCF12.jpg"
+]
+2024-10-31 12:29:17 [http-nio-8000-exec-6] INFO  com.osc.dashboardservice.service.FilterProductService - Products filtered with criteria: LH for category ID: F. Resulting products: [productId: "F07"
+categoryId: "F"
+name: "Zebronics ZEB-COUNTY"
+productDetails: "The speaker comes with a call function along with a built-in fm radio too. Charging time 2.5H. Playback time approx. 10 hrs. 1 Year warranty-from the date of purchase"
+price: 549.0
+image: "\\\\192.168.99.162Shared_folderOSCF07.jpg"
+, productId: "F05"
+categoryId: "F"
+name: "boAt Stone 135"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 135 portable wireless speakers. True Wireless- It supports TWS functionality, meaning you can connect two Stone 135s together and simultaneously play music on both of them for twice the impact."
+price: 799.0
+image: "\\\\192.168.99.162Shared_folderOSCF05.jpg"
+, productId: "F10"
+categoryId: "F"
+name: "Mivi Roam 2"
+productDetails: "Small Frame. Big Sound- Roam 2 wireless speaker is designed to deliver loud and clear music by pumping out sharp trebles, detailed mids and punchy bass. Now enjoy more richer & immersive notes to fill your room with music. Heavy Bass - Small in size"
+price: 1099.0
+image: "\\\\192.168.99.162Shared_folderOSCF10.jpg"
+, productId: "F03"
+categoryId: "F"
+name: "boAt Stone 180"
+productDetails: "Stone 180 comes equipped with 1.75 inch Dynamic Drivers for powerful immersive sound. Its power packed 800mAh battery ensures extended indulgence in musical bliss with up to 10 hours of play time, Charging Time - 1.5 Hours."
+price: 1299.0
+image: "\\\\192.168.99.162Shared_folderOSCF03.jpg"
+, productId: "F04"
+categoryId: "F"
+name: "Blaupunkt SBA200"
+productDetails: "Bluetooth Version 5.0"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF04.jpg"
+, productId: "F09"
+categoryId: "F"
+name: "boAt Stone 250"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 250 portable wireless speaker. Playback- The speaker offers up to a total of 8 hours of playtime per single charge via Type C interface at 60% volume level"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF09.jpg"
+, productId: "F01"
+categoryId: "F"
+name: "boAt Stone 620"
+productDetails: "Get ready to be enthralled by the 12W RMS stereo sound on Stone 620 portable wireless speaker. It supports TWS functionality, meaning you can connect two Stone 620s together and play music on both of them simultaneously for twice the impact. Charging time- 3h."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF01.jpg"
+, productId: "F06"
+categoryId: "F"
+name: "boAt Stone 650"
+productDetails: "Its powerful 1800mAh battery offers a playback time of up to 7 hours, Charging Time 3.5 hours.Stone 650 is IPX5 rated offering protection against water and dust."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF06.jpg"
+, productId: "F08"
+categoryId: "F"
+name: "JBL Go 2"
+productDetails: "5 Hours of Playtime under optimum audio settings. Wireless Bluetooth Streaming. IPX7 Waterproof design, Battery Type Lithium-ion polymer, Charging time  hr"
+price: 1999.0
+image: "\\\\192.168.99.162Shared_folderOSCF08.jpg"
+, productId: "F02"
+categoryId: "F"
+name: "boAt Stone 1000"
+productDetails: "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth with powerful 3000mAh battery"
+price: 2499.0
+image: "\\\\192.168.99.162Shared_folderOSCF02.jpg"
+, productId: "F12"
+categoryId: "F"
+name: "Philips Audio MMS2625B 32W"
+productDetails: "Bluetooth version 4.2"
+price: 3379.0
+image: "\\\\192.168.99.162Shared_folderOSCF12.jpg"
+, productId: "F11"
+categoryId: "F"
+name: "JBL Flip 4"
+productDetails: "WIRELESS BLUETOOTH STREAMING- Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound.12 HOURS OF PLAYTIME-Built-in 3000mAh rechargeable Li-ion battery supports up to 12 hours of playtime."
+price: 6999.0
+image: "\\\\192.168.99.162Shared_folderOSCF11.jpg"
+]
+2024-10-31 12:29:19 [http-nio-8000-exec-2] INFO  com.osc.dashboardservice.service.FilterProductService - Products filtered with criteria: P for category ID: F. Resulting products: [productId: "F07"
+categoryId: "F"
+name: "Zebronics ZEB-COUNTY"
+productDetails: "The speaker comes with a call function along with a built-in fm radio too. Charging time 2.5H. Playback time approx. 10 hrs. 1 Year warranty-from the date of purchase"
+price: 549.0
+image: "\\\\192.168.99.162Shared_folderOSCF07.jpg"
+, productId: "F01"
+categoryId: "F"
+name: "boAt Stone 620"
+productDetails: "Get ready to be enthralled by the 12W RMS stereo sound on Stone 620 portable wireless speaker. It supports TWS functionality, meaning you can connect two Stone 620s together and play music on both of them simultaneously for twice the impact. Charging time- 3h."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF01.jpg"
+, productId: "F02"
+categoryId: "F"
+name: "boAt Stone 1000"
+productDetails: "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth with powerful 3000mAh battery"
+price: 2499.0
+image: "\\\\192.168.99.162Shared_folderOSCF02.jpg"
+, productId: "F03"
+categoryId: "F"
+name: "boAt Stone 180"
+productDetails: "Stone 180 comes equipped with 1.75 inch Dynamic Drivers for powerful immersive sound. Its power packed 800mAh battery ensures extended indulgence in musical bliss with up to 10 hours of play time, Charging Time - 1.5 Hours."
+price: 1299.0
+image: "\\\\192.168.99.162Shared_folderOSCF03.jpg"
+, productId: "F04"
+categoryId: "F"
+name: "Blaupunkt SBA200"
+productDetails: "Bluetooth Version 5.0"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF04.jpg"
+, productId: "F05"
+categoryId: "F"
+name: "boAt Stone 135"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 135 portable wireless speakers. True Wireless- It supports TWS functionality, meaning you can connect two Stone 135s together and simultaneously play music on both of them for twice the impact."
+price: 799.0
+image: "\\\\192.168.99.162Shared_folderOSCF05.jpg"
+, productId: "F06"
+categoryId: "F"
+name: "boAt Stone 650"
+productDetails: "Its powerful 1800mAh battery offers a playback time of up to 7 hours, Charging Time 3.5 hours.Stone 650 is IPX5 rated offering protection against water and dust."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF06.jpg"
+, productId: "F08"
+categoryId: "F"
+name: "JBL Go 2"
+productDetails: "5 Hours of Playtime under optimum audio settings. Wireless Bluetooth Streaming. IPX7 Waterproof design, Battery Type Lithium-ion polymer, Charging time  hr"
+price: 1999.0
+image: "\\\\192.168.99.162Shared_folderOSCF08.jpg"
+, productId: "F09"
+categoryId: "F"
+name: "boAt Stone 250"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 250 portable wireless speaker. Playback- The speaker offers up to a total of 8 hours of playtime per single charge via Type C interface at 60% volume level"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF09.jpg"
+, productId: "F10"
+categoryId: "F"
+name: "Mivi Roam 2"
+productDetails: "Small Frame. Big Sound- Roam 2 wireless speaker is designed to deliver loud and clear music by pumping out sharp trebles, detailed mids and punchy bass. Now enjoy more richer & immersive notes to fill your room with music. Heavy Bass - Small in size"
+price: 1099.0
+image: "\\\\192.168.99.162Shared_folderOSCF10.jpg"
+, productId: "F11"
+categoryId: "F"
+name: "JBL Flip 4"
+productDetails: "WIRELESS BLUETOOTH STREAMING- Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound.12 HOURS OF PLAYTIME-Built-in 3000mAh rechargeable Li-ion battery supports up to 12 hours of playtime."
+price: 6999.0
+image: "\\\\192.168.99.162Shared_folderOSCF11.jpg"
+, productId: "F12"
+categoryId: "F"
+name: "Philips Audio MMS2625B 32W"
+productDetails: "Bluetooth version 4.2"
+price: 3379.0
+image: "\\\\192.168.99.162Shared_folderOSCF12.jpg"
+]
+2024-10-31 12:29:22 [http-nio-8000-exec-7] INFO  com.osc.dashboardservice.service.FilterProductService - Products filtered with criteria: LH for category ID: F. Resulting products: [productId: "F07"
+categoryId: "F"
+name: "Zebronics ZEB-COUNTY"
+productDetails: "The speaker comes with a call function along with a built-in fm radio too. Charging time 2.5H. Playback time approx. 10 hrs. 1 Year warranty-from the date of purchase"
+price: 549.0
+image: "\\\\192.168.99.162Shared_folderOSCF07.jpg"
+, productId: "F05"
+categoryId: "F"
+name: "boAt Stone 135"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 135 portable wireless speakers. True Wireless- It supports TWS functionality, meaning you can connect two Stone 135s together and simultaneously play music on both of them for twice the impact."
+price: 799.0
+image: "\\\\192.168.99.162Shared_folderOSCF05.jpg"
+, productId: "F10"
+categoryId: "F"
+name: "Mivi Roam 2"
+productDetails: "Small Frame. Big Sound- Roam 2 wireless speaker is designed to deliver loud and clear music by pumping out sharp trebles, detailed mids and punchy bass. Now enjoy more richer & immersive notes to fill your room with music. Heavy Bass - Small in size"
+price: 1099.0
+image: "\\\\192.168.99.162Shared_folderOSCF10.jpg"
+, productId: "F03"
+categoryId: "F"
+name: "boAt Stone 180"
+productDetails: "Stone 180 comes equipped with 1.75 inch Dynamic Drivers for powerful immersive sound. Its power packed 800mAh battery ensures extended indulgence in musical bliss with up to 10 hours of play time, Charging Time - 1.5 Hours."
+price: 1299.0
+image: "\\\\192.168.99.162Shared_folderOSCF03.jpg"
+, productId: "F04"
+categoryId: "F"
+name: "Blaupunkt SBA200"
+productDetails: "Bluetooth Version 5.0"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF04.jpg"
+, productId: "F09"
+categoryId: "F"
+name: "boAt Stone 250"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 250 portable wireless speaker. Playback- The speaker offers up to a total of 8 hours of playtime per single charge via Type C interface at 60% volume level"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF09.jpg"
+, productId: "F01"
+categoryId: "F"
+name: "boAt Stone 620"
+productDetails: "Get ready to be enthralled by the 12W RMS stereo sound on Stone 620 portable wireless speaker. It supports TWS functionality, meaning you can connect two Stone 620s together and play music on both of them simultaneously for twice the impact. Charging time- 3h."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF01.jpg"
+, productId: "F06"
+categoryId: "F"
+name: "boAt Stone 650"
+productDetails: "Its powerful 1800mAh battery offers a playback time of up to 7 hours, Charging Time 3.5 hours.Stone 650 is IPX5 rated offering protection against water and dust."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF06.jpg"
+, productId: "F08"
+categoryId: "F"
+name: "JBL Go 2"
+productDetails: "5 Hours of Playtime under optimum audio settings. Wireless Bluetooth Streaming. IPX7 Waterproof design, Battery Type Lithium-ion polymer, Charging time  hr"
+price: 1999.0
+image: "\\\\192.168.99.162Shared_folderOSCF08.jpg"
+, productId: "F02"
+categoryId: "F"
+name: "boAt Stone 1000"
+productDetails: "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth with powerful 3000mAh battery"
+price: 2499.0
+image: "\\\\192.168.99.162Shared_folderOSCF02.jpg"
+, productId: "F12"
+categoryId: "F"
+name: "Philips Audio MMS2625B 32W"
+productDetails: "Bluetooth version 4.2"
+price: 3379.0
+image: "\\\\192.168.99.162Shared_folderOSCF12.jpg"
+, productId: "F11"
+categoryId: "F"
+name: "JBL Flip 4"
+productDetails: "WIRELESS BLUETOOTH STREAMING- Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound.12 HOURS OF PLAYTIME-Built-in 3000mAh rechargeable Li-ion battery supports up to 12 hours of playtime."
+price: 6999.0
+image: "\\\\192.168.99.162Shared_folderOSCF11.jpg"
+]
+2024-10-31 12:29:24 [http-nio-8000-exec-4] INFO  com.osc.dashboardservice.service.FilterProductService - Products filtered with criteria: P for category ID: F. Resulting products: [productId: "F07"
+categoryId: "F"
+name: "Zebronics ZEB-COUNTY"
+productDetails: "The speaker comes with a call function along with a built-in fm radio too. Charging time 2.5H. Playback time approx. 10 hrs. 1 Year warranty-from the date of purchase"
+price: 549.0
+image: "\\\\192.168.99.162Shared_folderOSCF07.jpg"
+, productId: "F01"
+categoryId: "F"
+name: "boAt Stone 620"
+productDetails: "Get ready to be enthralled by the 12W RMS stereo sound on Stone 620 portable wireless speaker. It supports TWS functionality, meaning you can connect two Stone 620s together and play music on both of them simultaneously for twice the impact. Charging time- 3h."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF01.jpg"
+, productId: "F02"
+categoryId: "F"
+name: "boAt Stone 1000"
+productDetails: "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth with powerful 3000mAh battery"
+price: 2499.0
+image: "\\\\192.168.99.162Shared_folderOSCF02.jpg"
+, productId: "F03"
+categoryId: "F"
+name: "boAt Stone 180"
+productDetails: "Stone 180 comes equipped with 1.75 inch Dynamic Drivers for powerful immersive sound. Its power packed 800mAh battery ensures extended indulgence in musical bliss with up to 10 hours of play time, Charging Time - 1.5 Hours."
+price: 1299.0
+image: "\\\\192.168.99.162Shared_folderOSCF03.jpg"
+, productId: "F04"
+categoryId: "F"
+name: "Blaupunkt SBA200"
+productDetails: "Bluetooth Version 5.0"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF04.jpg"
+, productId: "F05"
+categoryId: "F"
+name: "boAt Stone 135"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 135 portable wireless speakers. True Wireless- It supports TWS functionality, meaning you can connect two Stone 135s together and simultaneously play music on both of them for twice the impact."
+price: 799.0
+image: "\\\\192.168.99.162Shared_folderOSCF05.jpg"
+, productId: "F06"
+categoryId: "F"
+name: "boAt Stone 650"
+productDetails: "Its powerful 1800mAh battery offers a playback time of up to 7 hours, Charging Time 3.5 hours.Stone 650 is IPX5 rated offering protection against water and dust."
+price: 1699.0
+image: "\\\\192.168.99.162Shared_folderOSCF06.jpg"
+, productId: "F08"
+categoryId: "F"
+name: "JBL Go 2"
+productDetails: "5 Hours of Playtime under optimum audio settings. Wireless Bluetooth Streaming. IPX7 Waterproof design, Battery Type Lithium-ion polymer, Charging time  hr"
+price: 1999.0
+image: "\\\\192.168.99.162Shared_folderOSCF08.jpg"
+, productId: "F09"
+categoryId: "F"
+name: "boAt Stone 250"
+productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 250 portable wireless speaker. Playback- The speaker offers up to a total of 8 hours of playtime per single charge via Type C interface at 60% volume level"
+price: 1499.0
+image: "\\\\192.168.99.162Shared_folderOSCF09.jpg"
+, productId: "F10"
+categoryId: "F"
+name: "Mivi Roam 2"
+productDetails: "Small Frame. Big Sound- Roam 2 wireless speaker is designed to deliver loud and clear music by pumping out sharp trebles, detailed mids and punchy bass. Now enjoy more richer & immersive notes to fill your room with music. Heavy Bass - Small in size"
+price: 1099.0
+image: "\\\\192.168.99.162Shared_folderOSCF10.jpg"
+, productId: "F11"
+categoryId: "F"
+name: "JBL Flip 4"
+productDetails: "WIRELESS BLUETOOTH STREAMING- Wirelessly connect up to 2 smartphones or tablets to the speaker and take turns playing impressive stereo sound.12 HOURS OF PLAYTIME-Built-in 3000mAh rechargeable Li-ion battery supports up to 12 hours of playtime."
+price: 6999.0
+image: "\\\\192.168.99.162Shared_folderOSCF11.jpg"
+, productId: "F12"
+categoryId: "F"
+name: "Philips Audio MMS2625B 32W"
+productDetails: "Bluetooth version 4.2"
+price: 3379.0
+image: "\\\\192.168.99.162Shared_folderOSCF12.jpg"
+]
+2024-10-31 12:29:29 [http-nio-8000-exec-8] INFO  com.osc.dashboardservice.service.DashboardService - Recently Viewed Product List: [F07, F01]
+2024-10-31 12:29:29 [http-nio-8000-exec-8] INFO  com.osc.dashboardservice.service.DashboardService - Returning dashboard for returning user with recently viewed products.
+2024-10-31 12:29:29 [http-nio-8000-exec-8] INFO  com.osc.dashboardservice.service.DashboardService - Dashboard response received: dashboardDetails {
+  recentlyViewedProducts {
+    productId: "F07"
+    categoryId: "F"
+    name: "Zebronics ZEB-COUNTY"
+    productDetails: "The speaker comes with a call function along with a built-in fm radio too. Charging time 2.5H. Playback time approx. 10 hrs. 1 Year warranty-from the date of purchase"
+    price: 549.0
+    image: "\\\\192.168.99.162Shared_folderOSCF07.jpg"
+  }
+  recentlyViewedProducts {
+    productId: "F01"
+    categoryId: "F"
+    name: "boAt Stone 620"
+    productDetails: "Get ready to be enthralled by the 12W RMS stereo sound on Stone 620 portable wireless speaker. It supports TWS functionality, meaning you can connect two Stone 620s together and play music on both of them simultaneously for twice the impact. Charging time- 3h."
+    price: 1699.0
+    image: "\\\\192.168.99.162Shared_folderOSCF01.jpg"
+  }
+  similarProducts {
+    productId: "F02"
+    categoryId: "F"
+    name: "boAt Stone 1000"
+    productDetails: "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth with powerful 3000mAh battery"
+    price: 2499.0
+    image: "\\\\192.168.99.162Shared_folderOSCF02.jpg"
+  }
+  similarProducts {
+    productId: "F02"
+    categoryId: "F"
+    name: "boAt Stone 1000"
+    productDetails: "Frequency Response 20Hz-20KHz, Travel and party booster. Its full range drivers offer 14W signature sound for blissful auditory time. Experience optimum wireless connectivity with latest Bluetooth with powerful 3000mAh battery"
+    price: 2499.0
+    image: "\\\\192.168.99.162Shared_folderOSCF02.jpg"
+  }
+  similarProducts {
+    productId: "F03"
+    categoryId: "F"
+    name: "boAt Stone 180"
+    productDetails: "Stone 180 comes equipped with 1.75 inch Dynamic Drivers for powerful immersive sound. Its power packed 800mAh battery ensures extended indulgence in musical bliss with up to 10 hours of play time, Charging Time - 1.5 Hours."
+    price: 1299.0
+    image: "\\\\192.168.99.162Shared_folderOSCF03.jpg"
+  }
+  similarProducts {
+    productId: "F04"
+    categoryId: "F"
+    name: "Blaupunkt SBA200"
+    productDetails: "Bluetooth Version 5.0"
+    price: 1499.0
+    image: "\\\\192.168.99.162Shared_folderOSCF04.jpg"
+  }
+  similarProducts {
+    productId: "F05"
+    categoryId: "F"
+    name: "boAt Stone 135"
+    productDetails: "Power- Get ready to be enthralled by the 5W RMS sound on Stone 135 portable wireless speakers. True Wireless- It supports TWS functionality, meaning you can connect two Stone 135s together and simultaneously play music on both of them for twice the impact."
+    price: 799.0
+    image: "\\\\192.168.99.162Shared_folderOSCF05.jpg"
+  }
+  similarProducts {
+    productId: "F06"
+    categoryId: "F"
+    name: "boAt Stone 650"
+    productDetails: "Its powerful 1800mAh battery offers a playback time of up to 7 hours, Charging Time 3.5 hours.Stone 650 is IPX5 rated offering protection against water and dust."
+    price: 1699.0
+    image: "\\\\192.168.99.162Shared_folderOSCF06.jpg"
+  }
+  categories {
+    categoryId: "A"
+    categoryName: "Mobiles"
+    image: "\\\\192.168.99.205Shared_folderOSCA.jpg"
+  }
+  categories {
+    categoryId: "B"
+    categoryName: "Cameras"
+    image: "\\\\192.168.99.205Shared_folderOSCB.jpg"
+  }
+  categories {
+    categoryId: "C"
+    categoryName: "Monitors"
+    image: "\\\\192.168.99.205Shared_folderOSCC.jpg"
+  }
+  categories {
+    categoryId: "E"
+    categoryName: "Televisions"
+    image: "\\\\192.168.99.205Shared_folderOSCE.jpg"
+  }
+  categories {
+    categoryId: "F"
+    categoryName: "Speakers"
+    image: "\\\\192.168.99.205Shared_folderOSCF.jpg"
+  }
+  categories {
+    categoryId: "L"
+    categoryName: "Power Banks"
+    image: "\\\\192.168.99.205Shared_folderOSCL.jpg"
+  }
+  categories {
+    categoryId: "D"
+    categoryName: "Laptops"
+    image: "\\\\192.168.99.205Shared_folderOSCD.jpg"
+  }
+  categories {
+    categoryId: "G"
+    categoryName: "Tablets"
+    image: "\\\\192.168.99.205Shared_folderOSCG.jpg"
+  }
+  categories {
+    categoryId: "H"
+    categoryName: "Smart Wearables"
+    image: "\\\\192.168.99.205Shared_folderOSCH.jpg"
+  }
+  categories {
+    categoryId: "I"
+    categoryName: "Storages"
+    image: "\\\\192.168.99.205Shared_folderOSCI.jpg"
+  }
+  categories {
+    categoryId: "J"
+    categoryName: "Printers"
+    image: "\\\\192.168.99.205Shared_folderOSCJ.jpg"
+  }
+  categories {
+    categoryId: "K"
+    categoryName: "Network Components"
+    image: "\\\\192.168.99.205Shared_folderOSCK.jpg"
+  }
+}
+
+2024-11-04 10:24:35 [main] INFO  com.osc.dashboardservice.DashboardServiceApplication - Starting DashboardServiceApplication using Java 22.0.1 with PID 7268 (C:\Users\Shadab Khan\Projects\OSC\DashboardService\target\classes started by Shadab Khan in C:\Users\Shadab Khan\Projects\OSC)
+2024-11-04 10:24:35 [main] DEBUG com.osc.dashboardservice.DashboardServiceApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+2024-11-04 10:24:35 [main] INFO  com.osc.dashboardservice.DashboardServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-04 10:24:37 [main] INFO  com.osc.dashboardservice.DashboardServiceApplication - Started DashboardServiceApplication in 3.362 seconds (process running for 4.901)
+2024-11-04 12:42:34 [http-nio-8000-exec-1] INFO  com.osc.dashboardservice.service.DashboardService - Recently Viewed Product List: []
+2024-11-04 12:42:35 [http-nio-8000-exec-1] INFO  com.osc.dashboardservice.service.DashboardService - First-time user login. Fetching categories and featured products.
+2024-11-04 12:42:51 [http-nio-8000-exec-5] INFO  com.osc.dashboardservice.service.FilterProductService - Products filtered with criteria: P for category ID: A. Resulting products: [productId: "A01"
+categoryId: "A"
+name: "Samsung Galaxy M13 5G"
+productDetails: "Upto 12GB RAM with RAM Plus  64GB internal memory expandable up to 1TB Superfast 5G with 11 5G Bands Powerful MTK D700 Octa Core 22GH with Android 12 One UI Core 4 50MP 2MP"
+price: 11999.0
+image: "\\\\192.168.99.162Shared_folderOSCA01.jpg"
+, productId: "A13"
+categoryId: "A"
+name: "Nokia 5310 Dual SIM"
+productDetails: "MP3 player and wireless FM radio with dedicated music buttons and powerful dual front-facing speakers. Network speed-2G 1200mAh battery"
+price: 3449.0
+image: "\\\\192.168.99.162Shared_folderOSCA13.jpg"
+, productId: "A08"
+categoryId: "A"
+name: "Redmi 10 Prime"
+productDetails: "Processor- MediaTek Helio G88 Octa-core processor with HyperEngine 2.0 , Up to 2.0GHz clock speed. Battery-6000mAh battery with 18W fast charging support. Upto 9W reverse charging. In box - 22.5W wired charger"
+price: 12999.0
+image: "\\\\192.168.99.162Shared_folderOSCA08.jpg"
+, productId: "A10"
+categoryId: "A"
+name: "iQOO Z6 44W"
+productDetails: "44W FlashCharge Snapdragon 680 comes with octa core architecture design that adopts the new 6nm process, CPU increased by 25% & GPU performance increased by 10% compared with Qualcomm Snapdragon 662. Z6 is equipped with a FHD AMOLED dispaly to give a truly immersive display experience with true color contrast."
+price: 16999.0
+image: "\\\\192.168.99.162Shared_folderOSCA10.jpg"
+, productId: "A06"
+categoryId: "A"
+name: "OPPO A31"
+productDetails: "16.5 centimeters   waterdrop multi touch screen with an 89% screen to body ratio   1600 x 720 pixels resolution, 269 ppi pixel density.Memory, Storage & SIM: 6GB RAM  128GB internal memory expandable up to 256GB Dual SIM dual-standby"
+price: 11990.0
+image: "\\\\192.168.99.162Shared_folderOSCA06.jpg"
+, productId: "A12"
+categoryId: "A"
+name: "Nothing Phone 1"
+productDetails: "8 GB RAM | 128 GB ROM.16.64 cm (6.55 inch) Full HD+ Display.50MP + 50MP | 16MP Front Camera"
+price: 30299.0
+image: "\\\\192.168.99.162Shared_folderOSCA12.jpg"
+, productId: "A04"
+categoryId: "A"
+name: "Redmi 9 Activ"
+productDetails: "Processor- Octa-core Helio G35 and upto 2.3GHz clock speed.Camera-13+2 MP Dual Rear camera with AI portrait 5 MP front camera"
+price: 7999.0
+image: "\\\\192.168.99.162Shared_folderOSCA04.jpg"
+, productId: "A05"
+categoryId: "A"
+name: "OPPO A74 5G"
+productDetails: "Processor - Octa - core Helio G35 and upto 2.3 GHz clock speed.Camera - 13 + 2 MP Dual Rear camera with AI portrait 5 MP front camera"
+price: 14990.0
+image: "\\\\192.168.99.162Shared_folderOSCA05.jpg"
+, productId: "A02"
+categoryId: "A"
+name: "Samsung Galaxy M53 5G"
+productDetails: "Segment Best 108MP Quad Camera Setup, with exciting features like Single Take, Object Eraser, and Photo Remaster.6.7-inch Super AMOLED Plus Display, FHD+ resolution, 1080x2400 pixels with 120Hz Refresh Rate"
+price: 24999.0
+image: "\\\\192.168.99.162Shared_folderOSCA02.jpg"
+, productId: "A11"
+categoryId: "A"
+name: "Samsung Galaxy S20 FE 5G"
+productDetails: "5G Ready powered by Qualcomm Snapdragon 865 Octa-Core processor, 8GB RAM, 128GB internal memory expandable up to 1TB, Android 11.0  operating system and dual SIM Triple Rear Camera Setup - 12MP"
+price: 37990.0
+image: "\\\\192.168.99.162Shared_folderOSCA11.jpg"
+, productId: "A03"
+categoryId: "A"
+name: "Redmi 9A Sport"
+productDetails: "Processor- MediaTek Helio G25 Octa-core, Up to 2.0GHz clock speed. Camera- 13 MP Rear camera with AI portrait, 5 MP front camera. Display-16.58 centimeters HD display with 720x1600 pixels and 20-9 aspect ratio."
+price: 6499.0
+image: "\\\\192.168.99.162Shared_folderOSCA03.jpg"
+, productId: "A07"
+categoryId: "A"
+name: "Redmi Note 11T 5G"
+productDetails: "Camera- 50MP High resolution primary camera f1.8 with 8MP Ultra-wide sensor 16 MP Front camera."
+price: 17999.0
+image: "\\\\192.168.99.162Shared_folderOSCA07.jpg"
+, productId: "A09"
+categoryId: "A"
+name: "realme narzo 50i"
+productDetails: "2 GB RAM, 32 GB ROM ,Expandable Upto 256 GB. 16.51 cm HD Display  , 88.7% Screen-to-body Ratio ,LCD Multi-touch Display , 1600-by-720-pixel Resolution ,400 nits Max Brightness."
+price: 8999.0
+image: "\\\\192.168.99.162Shared_folderOSCA09.jpg"
+]
+2024-11-04 12:42:55 [http-nio-8000-exec-6] INFO  com.osc.dashboardservice.service.ProductDetailsService - Product details fetched for ID: A13
+2024-11-04 12:42:55 [http-nio-8000-exec-6] INFO  com.osc.dashboardservice.service.ProductDetailsService - Product ID A13 added to recently viewed for user ID user8356095971
+2024-11-04 12:43:01 [http-nio-8000-exec-8] INFO  com.osc.dashboardservice.service.CartManagementService - Fetched product details for product IDs: []
+2024-11-04 12:43:02 [http-nio-8000-exec-7] INFO  com.osc.dashboardservice.service.CartManagementService - Increased product quantity by 1 in cart for user ID user8356095971: Product ID A13
+2024-11-04 12:43:04 [http-nio-8000-exec-1] INFO  com.osc.dashboardservice.service.CartManagementService - Increased product quantity by 1 in cart for user ID user8356095971: Product ID A13
+2024-11-04 12:43:08 [http-nio-8000-exec-3] INFO  com.osc.dashboardservice.service.DashboardService - Recently Viewed Product List: [A13]
+2024-11-04 12:43:08 [http-nio-8000-exec-3] INFO  com.osc.dashboardservice.service.DashboardService - Returning dashboard for returning user with recently viewed products.
+2024-11-04 12:43:10 [http-nio-8000-exec-2] INFO  com.osc.dashboardservice.service.ProductDetailsService - Product details fetched for ID: B01
+2024-11-04 12:43:10 [http-nio-8000-exec-2] INFO  com.osc.dashboardservice.service.ProductDetailsService - Product ID B01 added to recently viewed for user ID user8356095971
+2024-11-04 12:43:12 [http-nio-8000-exec-6] INFO  com.osc.dashboardservice.service.CartManagementService - Increased product quantity by 1 in cart for user ID user8356095971: Product ID B01
+2024-11-04 12:43:15 [http-nio-8000-exec-10] INFO  com.osc.dashboardservice.service.DashboardService - Recently Viewed Product List: [B01, A13]
+2024-11-04 12:43:15 [http-nio-8000-exec-10] INFO  com.osc.dashboardservice.service.DashboardService - Returning dashboard for returning user with recently viewed products.
+2024-11-04 12:43:17 [http-nio-8000-exec-9] INFO  com.osc.dashboardservice.service.CartManagementService - Fetched product details for product IDs: [A13, B01]
+2024-11-04 12:43:43 [http-nio-8000-exec-7] INFO  com.osc.dashboardservice.service.DashboardService - Recently Viewed Product List: [B01, A13]
+2024-11-04 12:43:43 [http-nio-8000-exec-7] INFO  com.osc.dashboardservice.service.DashboardService - Returning dashboard for returning user with recently viewed products.
+2024-11-04 12:44:05 [http-nio-8000-exec-3] INFO  com.osc.dashboardservice.service.DashboardService - Recently Viewed Product List: [B01, A13]
+2024-11-04 12:44:05 [http-nio-8000-exec-3] INFO  com.osc.dashboardservice.service.DashboardService - Returning dashboard for returning user with recently viewed products.
+2024-11-04 12:44:21 [http-nio-8000-exec-5] INFO  com.osc.dashboardservice.service.ProductDetailsService - Product details fetched for ID: B09
+2024-11-04 12:44:21 [http-nio-8000-exec-5] INFO  com.osc.dashboardservice.service.ProductDetailsService - Product ID B09 added to recently viewed for user ID user8356095971
+2024-11-04 12:44:26 [http-nio-8000-exec-2] INFO  com.osc.dashboardservice.service.CartManagementService - Increased product quantity by 1 in cart for user ID user8356095971: Product ID B09
+2024-11-04 12:44:29 [http-nio-8000-exec-6] INFO  com.osc.dashboardservice.service.DashboardService - Recently Viewed Product List: [B09, B01, A13]
+2024-11-04 12:44:29 [http-nio-8000-exec-6] INFO  com.osc.dashboardservice.service.DashboardService - Returning dashboard for returning user with recently viewed products.
+2024-11-04 12:44:31 [http-nio-8000-exec-10] INFO  com.osc.dashboardservice.service.CartManagementService - Fetched product details for product IDs: [A13, B01, B09]
+2024-11-04 12:45:04 [http-nio-8000-exec-8] INFO  com.osc.dashboardservice.service.CartManagementService - Fetched product details for product IDs: [A13, B01, B09]

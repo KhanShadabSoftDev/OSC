@@ -1,0 +1,27 @@
+{
+  "type": "record",
+  "name": "CartList",
+  "namespace": "com.osc.avro",
+  "fields": [
+    {
+      "name": "products",
+      "type": {
+        "type": "array",
+        "items": {
+          "type": "record",
+          "name": "Product",
+          "fields": [
+            {
+              "name": "productId",
+              "type": "string"
+            },
+            {
+              "name": "productQuantity",
+              "type": "int"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

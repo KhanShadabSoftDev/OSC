@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package com.general.sessionproto;
+
+option java_multiple_files = true;
+option java_package = "com.grpc.session";
+
+
+service SessionService {
+  rpc CheckSessionStatus (SessionStatusRequest) returns (SessionStatusResponse);
+  rpc CreateSession (CreateSessionRequest) returns (CreateSessionResponse);
+  rpc EndSession(EndSessionRequest) returns (EndSessionResponse);
+
+}
+
+
+message SessionStatusRequest {
+  string userId = 1;
+  string deviceId = 2;
+}
+
+message SessionStatusResponse {
+  bool status = 1;
+}
+
+message CreateSessionRequest {
+  string userId = 1;
+  string deviceId = 2;
+  string sessionId = 3;
+}
+
+message CreateSessionResponse {
+  bool status = 1;
+}
+
+message EndSessionRequest{
+  string sessionId = 1;
+}
+message EndSessionResponse{
+  bool status = 1;
+}

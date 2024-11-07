@@ -1,0 +1,14 @@
+{
+  "type": "record",
+  "name": "RecentViewHistory",
+  "namespace": "com.osc.avro",
+  "fields": [
+    {
+      "name": "productIds",
+      "type": {
+        "type": "array",
+        "items": "string"
+      }
+    }
+  ]
+}

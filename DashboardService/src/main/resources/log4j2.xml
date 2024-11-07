@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="WARN">
+
+    <Appenders>
+        <!-- Console appender to output logs to the console -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %-80logger{36} - %msg%n"/>
+        </Console>
+
+        <!-- Rolling file appender for the log file with size-based rolling -->
+        <RollingFile name="FileAppender" fileName="C:/Users/Shadab Khan/Projects/OSC/logs/DashboardService-Sample.log"
+                     filePattern="C:/Users/Shadab Khan/Projects/OSC/logs/DashboardService-Sample-%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss:SSS} [%t] %-5level %-80logger{36} - %msg%n</Pattern>
+            </PatternLayout>
+            <Policies>
+                <!-- Roll over the log file when it reaches 10MB -->
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+
+        <!-- Separate rolling file appender for error logs with error level filtering -->
+        <RollingFile name="ErrorFileAppender" fileName="C:/Users/Shadab Khan/Projects/OSC/logs/DashboardService-Error.log"
+                     filePattern="C:/Users/Shadab Khan/Projects/OSC/logs/DashboardService-Error-%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</Pattern>
+            </PatternLayout>
+            <Filters>
+                <ThresholdFilter level="ERROR" onMatch="ACCEPT" onMismatch="DENY"/>
+            </Filters>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+
+        <!-- Separate rolling file appender for trace logs with trace level filtering -->
+        <RollingFile name="TraceFileAppender" fileName="C:/Users/Shadab Khan/Projects/OSC/logs/DashboardService-Trace.log"
+                     filePattern="C:/Users/Shadab Khan/Projects/OSC/logs/DashboardService-Trace-%d{yyyy-MM-dd}-%i.log">
+            <PatternLayout>
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n</Pattern>
+            </PatternLayout>
+            <Filters>
+                <ThresholdFilter level="TRACE" onMatch="ACCEPT" onMismatch="DENY"/>
+            </Filters>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB"/>
+            </Policies>
+            <DefaultRolloverStrategy max="10"/>
+        </RollingFile>
+    </Appenders>
+
+    <Loggers>
+        <!-- Root logger with default logging level -->
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+            <AppenderRef ref="FileAppender"/>
+            <AppenderRef ref="ErrorFileAppender"/>
+        </Root>
+
+        <Logger name="com.osc.dashboardservice" level="TRACE" additivity="false">
+            <AppenderRef ref="TraceFileAppender"/>
+        </Logger>
+    </Loggers>
+</configuration>

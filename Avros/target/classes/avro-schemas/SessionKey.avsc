@@ -1,0 +1,13 @@
+{  "type": "record",
+  "name": "SessionKey",
+  "namespace": "com.osc.avro",
+  "fields": [
+    {
+      "name": "userId",
+      "type": "string"
+    },
+    {
+      "name": "deviceId",
+      "type": "string" }
+  ]
+}

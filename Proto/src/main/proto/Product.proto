@@ -1,0 +1,68 @@
+syntax = "proto3";
+
+package  com.general.productproto;
+option java_multiple_files=true;
+option java_package = "com.grpc.product";
+
+message DashboardRequest {
+  repeated string productId = 1;
+}
+message Product {
+  string productId = 1;
+  string categoryId = 2;
+  string name = 3;
+  string productDetails = 4;
+  double price = 5;
+  string image = 6;
+}
+
+message Category {
+  string categoryId = 1;
+  string categoryName = 2;
+  string image = 3;
+}
+
+message DashboardDetails {
+  repeated Product featuredProducts = 1;
+  repeated Product recentlyViewedProducts = 2;
+  repeated Product similarProducts = 3;
+  repeated Category categories = 4;
+}
+
+message DashboardResponse {
+  DashboardDetails dashboardDetails = 1;
+}
+message ProductDataRequest {
+  string productId = 1;
+}
+
+message ProductDataResponse{
+  Product product = 1;
+  repeated Product products=2;
+}
+
+message ProductListRequest {
+  repeated string productIds = 1; // A list of product IDs
+}
+
+message ProductListResponse {
+  repeated Product products = 1; // A list of Product objects
+}
+
+message FilterProductRequest{
+  string userId=1;
+  string categoryId = 2;
+  string filterCriteria= 3;
+}
+
+message FilterProductResponse{
+  repeated Product products = 1;
+}
+
+service ProductDashboardService {
+  rpc FetchProductDashboard(DashboardRequest) returns (DashboardResponse);
+  rpc FetchProductDetails(ProductDataRequest) returns (ProductDataResponse);
+  rpc FilterProduct(FilterProductRequest) returns(FilterProductResponse);
+  rpc FetchProductList(ProductListRequest) returns (ProductListResponse);
+
+}

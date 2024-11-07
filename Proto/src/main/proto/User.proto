@@ -1,0 +1,76 @@
+syntax = "proto3";
+
+package com.general.userproto;
+option java_multiple_files = true;
+option java_package = "com.grpc.user";
+
+
+message RegisterUserRequest {
+  string userId = 1;
+  string name = 2;
+  string email = 3;
+  string mobileNumber = 4;
+  string dob = 5;
+  string password = 6;
+}
+
+message RegisterUserResponse {
+  bool success = 1;
+}
+
+message UniqueEmailRequest {
+  string email = 1;
+}
+
+message UniqueEmailResponse {
+  bool isUnique = 1;
+}
+
+
+message ValidEmailRequest {
+  string email = 1;
+}
+
+message ValidEmailResponse {
+  bool isValid = 1;
+  string userId=2;
+}
+
+message PasswordRequest{
+  string password = 1;
+  string email = 2;
+}
+
+message PasswordResponse{
+  bool success = 1;
+  string userId=2;
+}
+
+
+message VerifyCredentialsRequest {
+  string userId = 1;
+}
+
+message VerifyCredentialsResponse {
+  string name = 1;
+  string password = 2;
+}
+
+
+service UserDataService {
+
+  // Verifies the email uniqueness
+  rpc verifyEmailAddressIsUnique(UniqueEmailRequest) returns (UniqueEmailResponse);
+
+  // Registers a new user with provided data (name, email, etc.)
+  rpc registerUser(RegisterUserRequest) returns (RegisterUserResponse);
+
+  rpc validEmailRequest(ValidEmailRequest) returns(ValidEmailResponse);
+
+  // Update password --- > forgot password
+  rpc resetPassword(PasswordRequest) returns (PasswordResponse);
+
+//  Login Process to verify Credential
+  rpc VerifyCredentials (VerifyCredentialsRequest) returns (VerifyCredentialsResponse);
+
+}

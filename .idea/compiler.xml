@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Proto" />
+        <module name="MailService" />
+        <module name="UserService" />
+        <module name="ProductDataService" />
+        <module name="DashboardService" />
+        <module name="CartDataService" />
+        <module name="Avros" />
+        <module name="UserDataService" />
+        <module name="SessionDataService" />
+        <module name="RecentlyViewedService" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="GeneralProject" target="17" />
+      <module name="LogGenerationSample" target="17" />
+      <module name="SessionService" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Avros" options="-parameters" />
+      <module name="CartDataService" options="-parameters" />
+      <module name="DashboardService" options="-parameters" />
+      <module name="GeneralProject" options="-parameters" />
+      <module name="LogGenerationSample" options="-parameters" />
+      <module name="MailService" options="-parameters" />
+      <module name="ProductDataService" options="-parameters" />
+      <module name="Proto" options="-parameters" />
+      <module name="RecentlyViewedService" options="-parameters" />
+      <module name="SessionDataService" options="-parameters" />
+      <module name="SessionService" options="-parameters" />
+      <module name="UserDataService" options="-parameters" />
+      <module name="UserService" options="-parameters" />
+    </option>
+  </component>
+</project>

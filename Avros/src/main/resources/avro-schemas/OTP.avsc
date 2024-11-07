@@ -1,0 +1,27 @@
+{
+  "type": "record",
+  "name": "OtpMessage",
+  "namespace": "com.osc.avro",
+  "fields": [
+    {
+      "name": "userId",
+      "type": "string"
+    },
+    {
+      "name": "emailId",
+      "type": "string"
+    },
+    {
+      "name": "otp",
+      "type": "string"
+    },
+    {
+      "name": "failedAttempts",
+      "type": "int"
+    },
+    {
+      "name": "purpose",
+      "type": "string"
+    }
+  ]
+}
